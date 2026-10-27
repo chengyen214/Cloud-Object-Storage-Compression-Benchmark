@@ -1,0 +1,2169 @@
+Entity,Code,Year,Share of the population born in another country,World region according to OWID
+Afghanistan,AFG,1990,0.47889447,Asia
+Afghanistan,AFG,1995,0.41909462,Asia
+Afghanistan,AFG,2000,0.3771275,Asia
+Afghanistan,AFG,2005,0.3577773,Asia
+Afghanistan,AFG,2010,0.3616026,Asia
+Afghanistan,AFG,2015,1.0032939,Asia
+Afghanistan,AFG,2020,0.3688297,Asia
+Afghanistan,AFG,2024,0.2300487,Asia
+Africa,OWID_AFR,1990,2.5128212,
+Africa,OWID_AFR,1995,2.2729368,
+Africa,OWID_AFR,2000,1.8557024,
+Africa,OWID_AFR,2005,1.7614838,
+Africa,OWID_AFR,2010,1.655656,
+Africa,OWID_AFR,2015,1.8592234,
+Africa,OWID_AFR,2020,1.8298789,
+Africa,OWID_AFR,2024,1.9259226,
+Albania,ALB,1990,2.0138402,Europe
+Albania,ALB,1995,2.1897357,Europe
+Albania,ALB,2000,2.4223442,Europe
+Albania,ALB,2005,2.10454,Europe
+Albania,ALB,2010,1.8022878,Europe
+Albania,ALB,2015,1.7950191,Europe
+Albania,ALB,2020,1.6995398,Europe
+Albania,ALB,2024,1.6612072,Europe
+Algeria,DZA,1990,1.0795872,Africa
+Algeria,DZA,1995,0.9203732,Africa
+Algeria,DZA,2000,0.8093155,Africa
+Algeria,DZA,2005,0.59719867,Africa
+Algeria,DZA,2010,0.6003829,Africa
+Algeria,DZA,2015,0.59839034,Africa
+Algeria,DZA,2020,0.56849706,Africa
+Algeria,DZA,2024,0.554228,Africa
+American Samoa,ASM,1990,45.632504,Oceania
+American Samoa,ASM,1995,44.15093,Oceania
+American Samoa,ASM,2000,43.816727,Oceania
+American Samoa,ASM,2005,42.801632,Oceania
+American Samoa,ASM,2010,42.650467,Oceania
+American Samoa,ASM,2015,44.466507,Oceania
+American Samoa,ASM,2020,47.442776,Oceania
+American Samoa,ASM,2024,50.644714,Oceania
+Andorra,AND,1990,73.94148,Europe
+Andorra,AND,1995,69.16698,Europe
+Andorra,AND,2000,64.16534,Europe
+Andorra,AND,2005,64.96687,Europe
+Andorra,AND,2010,64.49706,Europe
+Andorra,AND,2015,58.558483,Europe
+Andorra,AND,2020,58.896355,Europe
+Andorra,AND,2024,59.078815,Europe
+Angola,AGO,1990,0.28828454,Africa
+Angola,AGO,1995,0.29061055,Africa
+Angola,AGO,2000,0.28470746,Africa
+Angola,AGO,2005,0.32310653,Africa
+Angola,AGO,2010,1.4439559,Africa
+Angola,AGO,2015,2.2451258,Africa
+Angola,AGO,2020,1.962367,Africa
+Angola,AGO,2024,1.7856456,Africa
+Anguilla,AIA,1990,30.59888,North America
+Anguilla,AIA,1995,34.14659,North America
+Anguilla,AIA,2000,36.351437,North America
+Anguilla,AIA,2005,38.183746,North America
+Anguilla,AIA,2010,38.23904,North America
+Anguilla,AIA,2015,38.501057,North America
+Anguilla,AIA,2020,38.503,North America
+Anguilla,AIA,2024,40.5398,North America
+Antigua and Barbuda,ATG,1990,19.07367,North America
+Antigua and Barbuda,ATG,1995,25.73729,North America
+Antigua and Barbuda,ATG,2000,30.797468,North America
+Antigua and Barbuda,ATG,2005,31.077364,North America
+Antigua and Barbuda,ATG,2010,30.9564,North America
+Antigua and Barbuda,ATG,2015,31.408472,North America
+Antigua and Barbuda,ATG,2020,31.994862,North America
+Antigua and Barbuda,ATG,2024,32.496906,North America
+Argentina,ARG,1990,5.0309563,South America
+Argentina,ARG,1995,4.5328174,South America
+Argentina,ARG,2000,4.1485777,South America
+Argentina,ARG,2005,4.18586,South America
+Argentina,ARG,2010,4.358772,South America
+Argentina,ARG,2015,4.2703323,South America
+Argentina,ARG,2020,4.231491,South America
+Argentina,ARG,2024,4.2849092,South America
+Armenia,ARM,1990,12.205107,Asia
+Armenia,ARM,1995,18.806553,Asia
+Armenia,ARM,2000,18.819962,Asia
+Armenia,ARM,2005,15.860157,Asia
+Armenia,ARM,2010,7.1943836,Asia
+Armenia,ARM,2015,6.5349,Asia
+Armenia,ARM,2020,7.165228,Asia
+Armenia,ARM,2024,9.235366,Asia
+Aruba,ABW,1990,22.417084,North America
+Aruba,ABW,1995,29.33955,North America
+Aruba,ABW,2000,33.9158,North America
+Aruba,ABW,2005,34.532528,North America
+Aruba,ABW,2010,34.28891,North America
+Aruba,ABW,2015,34.663673,North America
+Aruba,ABW,2020,49.90037,North America
+Aruba,ABW,2024,68.00844,North America
+Asia,OWID_ASI,1990,1.4539077,
+Asia,OWID_ASI,1995,1.2842467,
+Asia,OWID_ASI,2000,1.2695566,
+Asia,OWID_ASI,2005,1.28873,
+Asia,OWID_ASI,2010,1.5134797,
+Asia,OWID_ASI,2015,1.7441233,
+Asia,OWID_ASI,2020,1.802382,
+Asia,OWID_ASI,2024,1.9137963,
+Australia,AUS,1990,23.306269,Oceania
+Australia,AUS,1995,23.296854,Oceania
+Australia,AUS,2000,22.944485,Oceania
+Australia,AUS,2005,24.050474,Oceania
+Australia,AUS,2010,26.555475,Oceania
+Australia,AUS,2015,28.115314,Oceania
+Australia,AUS,2020,29.540522,Oceania
+Australia,AUS,2024,30.364773,Oceania
+Austria,AUT,1990,8.252397,Europe
+Austria,AUT,1995,9.619208,Europe
+Austria,AUT,2000,11.482008,Europe
+Austria,AUT,2005,14.267491,Europe
+Austria,AUT,2010,15.369897,Europe
+Austria,AUT,2015,17.821367,Europe
+Austria,AUT,2020,19.96374,Europe
+Austria,AUT,2024,25.513779,Europe
+Azerbaijan,AZE,1990,5.5617857,Asia
+Azerbaijan,AZE,1995,7.627808,Asia
+Azerbaijan,AZE,2000,6.4040585,Asia
+Azerbaijan,AZE,2005,3.5118446,Asia
+Azerbaijan,AZE,2010,2.7486727,Asia
+Azerbaijan,AZE,2015,2.30022,Asia
+Azerbaijan,AZE,2020,1.9534402,Asia
+Azerbaijan,AZE,2024,2.1134655,Asia
+Bahamas,BHS,1990,9.732012,North America
+Bahamas,BHS,1995,10.500197,North America
+Bahamas,BHS,2000,11.256968,North America
+Bahamas,BHS,2005,13.239836,North America
+Bahamas,BHS,2010,14.8974905,North America
+Bahamas,BHS,2015,15.373457,North America
+Bahamas,BHS,2020,16.06187,North America
+Bahamas,BHS,2024,16.767467,North America
+Bahrain,BHR,1990,34.377045,Asia
+Bahrain,BHR,1995,36.043507,Asia
+Bahrain,BHR,2000,35.682613,Asia
+Bahrain,BHR,2005,41.56008,Asia
+Bahrain,BHR,2010,52.998985,Asia
+Bahrain,BHR,2015,52.68061,Asia
+Bahrain,BHR,2020,52.996777,Asia
+Bahrain,BHR,2024,52.282288,Asia
+Bangladesh,BGD,1990,0.7897408,Asia
+Bangladesh,BGD,1995,0.7624243,Asia
+Bangladesh,BGD,2000,0.73422134,Asia
+Bangladesh,BGD,2005,0.7340388,Asia
+Bangladesh,BGD,2010,0.8840529,Asia
+Bangladesh,BGD,2015,0.8923018,Asia
+Bangladesh,BGD,2020,1.2720584,Asia
+Bangladesh,BGD,2024,1.6745209,Asia
+Barbados,BRB,1990,9.290669,North America
+Barbados,BRB,1995,10.00767,North America
+Barbados,BRB,2000,10.846247,North America
+Barbados,BRB,2005,11.396843,North America
+Barbados,BRB,2010,11.925825,North America
+Barbados,BRB,2015,12.357074,North America
+Barbados,BRB,2020,12.37815,North America
+Barbados,BRB,2024,12.45703,North America
+Belarus,BLR,1990,12.261388,Europe
+Belarus,BLR,1995,11.633109,Europe
+Belarus,BLR,2000,11.245629,Europe
+Belarus,BLR,2005,11.4501505,Europe
+Belarus,BLR,2010,11.488847,Europe
+Belarus,BLR,2015,11.414268,Europe
+Belarus,BLR,2020,11.411575,Europe
+Belarus,BLR,2024,11.644467,Europe
+Belgium,BEL,1990,9.480404,Europe
+Belgium,BEL,1995,9.902414,Europe
+Belgium,BEL,2000,10.502397,Europe
+Belgium,BEL,2005,11.865307,Europe
+Belgium,BEL,2010,14.333845,Europe
+Belgium,BEL,2015,16.09663,Europe
+Belgium,BEL,2020,17.73792,Europe
+Belgium,BEL,2024,20.010899,Europe
+Belize,BLZ,1990,16.607311,North America
+Belize,BLZ,1995,16.383373,North America
+Belize,BLZ,2000,15.152886,North America
+Belize,BLZ,2005,14.813518,North America
+Belize,BLZ,2010,14.485785,North America
+Belize,BLZ,2015,15.326956,North America
+Belize,BLZ,2020,15.875408,North America
+Belize,BLZ,2024,16.473415,North America
+Benin,BEN,1990,1.4532104,Africa
+Benin,BEN,1995,1.6975566,Africa
+Benin,BEN,2000,1.8646096,Africa
+Benin,BEN,2005,2.9470181,Africa
+Benin,BEN,2010,3.1561675,Africa
+Benin,BEN,2015,3.2241378,Africa
+Benin,BEN,2020,3.01661,Africa
+Benin,BEN,2024,2.8915854,Africa
+Bermuda,BMU,1990,27.246824,North America
+Bermuda,BMU,1995,28.014648,North America
+Bermuda,BMU,2000,28.731113,North America
+Bermuda,BMU,2005,28.875317,North America
+Bermuda,BMU,2010,29.104748,North America
+Bermuda,BMU,2015,30.27228,North America
+Bermuda,BMU,2020,30.659191,North America
+Bermuda,BMU,2024,31.207067,North America
+Bhutan,BTN,1990,4.039967,Asia
+Bhutan,BTN,1995,5.104482,Asia
+Bhutan,BTN,2000,5.384318,Asia
+Bhutan,BTN,2005,6.085682,Asia
+Bhutan,BTN,2010,6.9010534,Asia
+Bhutan,BTN,2015,6.9004536,Asia
+Bhutan,BTN,2020,6.962543,Asia
+Bhutan,BTN,2024,7.037689,Asia
+Bolivia,BOL,1990,1.0344534,South America
+Bolivia,BOL,1995,1.0616056,South America
+Bolivia,BOL,2000,1.0766267,South America
+Bolivia,BOL,2005,1.1510291,South America
+Bolivia,BOL,2010,1.2064608,South America
+Bolivia,BOL,2015,1.2983371,South America
+Bolivia,BOL,2020,1.3889375,South America
+Bolivia,BOL,2024,1.4761086,South America
+Bosnia and Herzegovina,BIH,1990,1.2588083,Europe
+Bosnia and Herzegovina,BIH,1995,1.8698642,Europe
+Bosnia and Herzegovina,BIH,2000,1.9941483,Europe
+Bosnia and Herzegovina,BIH,2005,1.1543288,Europe
+Bosnia and Herzegovina,BIH,2010,1.0217837,Europe
+Bosnia and Herzegovina,BIH,2015,1.0969603,Europe
+Bosnia and Herzegovina,BIH,2020,1.0923973,Europe
+Bosnia and Herzegovina,BIH,2024,1.0782956,Europe
+Botswana,BWA,1990,2.1069224,Africa
+Botswana,BWA,1995,2.6799464,Africa
+Botswana,BWA,2000,4.4673185,Africa
+Botswana,BWA,2005,4.601449,Africa
+Botswana,BWA,2010,4.6659036,Africa
+Botswana,BWA,2015,4.677269,Africa
+Botswana,BWA,2020,4.6607327,Africa
+Botswana,BWA,2024,4.61704,Africa
+Brazil,BRA,1990,0.5385548,South America
+Brazil,BRA,1995,0.45297658,South America
+Brazil,BRA,2000,0.39499414,South America
+Brazil,BRA,2005,0.34708732,South America
+Brazil,BRA,2010,0.3081327,South America
+Brazil,BRA,2015,0.32058427,South America
+Brazil,BRA,2020,0.50266546,South America
+Brazil,BRA,2024,0.663353,South America
+British Virgin Islands,VGB,1990,51.16531,North America
+British Virgin Islands,VGB,1995,56.31166,North America
+British Virgin Islands,VGB,2000,64.01858,North America
+British Virgin Islands,VGB,2005,63.452354,North America
+British Virgin Islands,VGB,2010,61.701897,North America
+British Virgin Islands,VGB,2015,56.626472,North America
+British Virgin Islands,VGB,2020,59.684933,North America
+British Virgin Islands,VGB,2024,62.12156,North America
+Brunei,BRN,1990,28.673048,Asia
+Brunei,BRN,1995,29.103521,Asia
+Brunei,BRN,2000,29.500282,Asia
+Brunei,BRN,2005,27.427309,Asia
+Brunei,BRN,2010,25.638235,Asia
+Brunei,BRN,2015,24.332088,Asia
+Brunei,BRN,2020,25.02414,Asia
+Brunei,BRN,2024,25.919075,Asia
+Bulgaria,BGR,1990,0.24381217,Europe
+Bulgaria,BGR,1995,0.3880911,Europe
+Bulgaria,BGR,2000,0.54196477,Europe
+Bulgaria,BGR,2005,0.79367906,Europe
+Bulgaria,BGR,2010,1.0256939,Europe
+Bulgaria,BGR,2015,1.7248722,Europe
+Bulgaria,BGR,2020,2.6589596,Europe
+Bulgaria,BGR,2024,4.4260693,Europe
+Burkina Faso,BFA,1990,3.81743,Africa
+Burkina Faso,BFA,1995,4.468243,Africa
+Burkina Faso,BFA,2000,4.3634315,Africa
+Burkina Faso,BFA,2005,4.289784,Africa
+Burkina Faso,BFA,2010,4.169246,Africa
+Burkina Faso,BFA,2015,3.7527704,Africa
+Burkina Faso,BFA,2020,3.3707316,Africa
+Burkina Faso,BFA,2024,3.1416488,Africa
+Burundi,BDI,1990,5.962178,Africa
+Burundi,BDI,1995,4.2011166,Africa
+Burundi,BDI,2000,1.9416419,Africa
+Burundi,BDI,2005,2.540746,Africa
+Burundi,BDI,2010,2.6376843,Africa
+Burundi,BDI,2015,2.7001297,Africa
+Burundi,BDI,2020,2.7325513,Africa
+Burundi,BDI,2024,2.7556014,Africa
+Cambodia,KHM,1990,0.5203565,Asia
+Cambodia,KHM,1995,0.9205972,Asia
+Cambodia,KHM,2000,1.172212,Asia
+Cambodia,KHM,2005,0.848979,Asia
+Cambodia,KHM,2010,0.565682,Asia
+Cambodia,KHM,2015,0.4734098,Asia
+Cambodia,KHM,2020,0.4743722,Asia
+Cambodia,KHM,2024,0.47579765,Asia
+Cameroon,CMR,1990,2.347081,Africa
+Cameroon,CMR,1995,1.8745698,Africa
+Cameroon,CMR,2000,1.5238223,Africa
+Cameroon,CMR,2005,1.5549594,Africa
+Cameroon,CMR,2010,1.4819658,Africa
+Cameroon,CMR,2015,2.2331712,Africa
+Cameroon,CMR,2020,2.2098308,Africa
+Cameroon,CMR,2024,2.207642,Africa
+Canada,CAN,1990,15.297378,North America
+Canada,CAN,1995,16.476175,North America
+Canada,CAN,2000,17.88631,North America
+Canada,CAN,2005,18.763699,North America
+Canada,CAN,2010,20.572044,North America
+Canada,CAN,2015,22.384243,North America
+Canada,CAN,2020,21.82991,North America
+Canada,CAN,2024,22.157274,North America
+Cape Verde,CPV,1990,2.3788848,Africa
+Cape Verde,CPV,1995,2.3867269,Africa
+Cape Verde,CPV,2000,2.4325142,Africa
+Cape Verde,CPV,2005,2.617936,Africa
+Cape Verde,CPV,2010,2.8194294,Africa
+Cape Verde,CPV,2015,2.9126024,Africa
+Cape Verde,CPV,2020,3.067543,Africa
+Cape Verde,CPV,2024,3.1464515,Africa
+Cayman Islands,CYM,1990,35.8283,North America
+Cayman Islands,CYM,1995,38.68308,North America
+Cayman Islands,CYM,2000,48.333923,North America
+Cayman Islands,CYM,2005,44.19723,North America
+Cayman Islands,CYM,2010,44.47772,North America
+Cayman Islands,CYM,2015,42.49213,North America
+Cayman Islands,CYM,2020,42.57469,North America
+Cayman Islands,CYM,2024,42.890526,North America
+Central African Republic,CAF,1990,2.34109,Africa
+Central African Republic,CAF,1995,2.9782095,Africa
+Central African Republic,CAF,2000,3.2224262,Africa
+Central African Republic,CAF,2005,2.2479196,Africa
+Central African Republic,CAF,2010,2.1073916,Africa
+Central African Republic,CAF,2015,1.7619866,Africa
+Central African Republic,CAF,2020,1.7615387,Africa
+Central African Republic,CAF,2024,1.7738042,Africa
+Central America (UN),,1990,1.6368983,
+Central America (UN),,1995,1.0489383,
+Central America (UN),,2000,0.81129265,
+Central America (UN),,2005,0.93914264,
+Central America (UN),,2010,1.1089971,
+Central America (UN),,2015,1.1536621,
+Central America (UN),,2020,1.3798693,
+Central America (UN),,2024,1.7014779,
+Central Asia (UN),,1990,12.296645,
+Central Asia (UN),,1995,9.014023,
+Central Asia (UN),,2000,7.2057858,
+Central Asia (UN),,2005,6.681098,
+Central Asia (UN),,2010,5.9234114,
+Central Asia (UN),,2015,5.404479,
+Central Asia (UN),,2020,5.000843,
+Central Asia (UN),,2024,4.755336,
+Central and Southern Asia (UN),,1990,2.0347006,
+Central and Southern Asia (UN),,1995,1.4470038,
+Central and Southern Asia (UN),,2000,1.2365968,
+Central and Southern Asia (UN),,2005,1.0497105,
+Central and Southern Asia (UN),,2010,1.0048251,
+Central and Southern Asia (UN),,2015,0.9106857,
+Central and Southern Asia (UN),,2020,0.86103785,
+Central and Southern Asia (UN),,2024,0.94906676,
+Chad,TCD,1990,1.2425886,Africa
+Chad,TCD,1995,1.263693,Africa
+Chad,TCD,2000,1.2314832,Africa
+Chad,TCD,2005,3.409439,Africa
+Chad,TCD,2010,3.3870575,Africa
+Chad,TCD,2015,3.1880126,Africa
+Chad,TCD,2020,3.178544,Africa
+Chad,TCD,2024,6.254817,Africa
+Channel Islands,OWID_CIS,1990,43.092663,
+Channel Islands,OWID_CIS,1995,41.666264,
+Channel Islands,OWID_CIS,2000,43.414352,
+Channel Islands,OWID_CIS,2005,46.328514,
+Channel Islands,OWID_CIS,2010,48.909664,
+Channel Islands,OWID_CIS,2015,50.35484,
+Channel Islands,OWID_CIS,2020,50.58321,
+Channel Islands,OWID_CIS,2024,50.877914,
+Chile,CHL,1990,0.7451938,South America
+Chile,CHL,1995,0.8656343,South America
+Chile,CHL,2000,1.0746382,South America
+Chile,CHL,2005,1.4773092,South America
+Chile,CHL,2010,2.104192,South America
+Chile,CHL,2015,3.3136714,South America
+Chile,CHL,2020,7.6210246,South America
+Chile,CHL,2024,7.783161,South America
+China,CHN,1990,0.044937827,Asia
+China,CHN,1995,0.050044343,Asia
+China,CHN,2000,0.056783687,Asia
+China,CHN,2005,0.065140635,Asia
+China,CHN,2010,0.07472897,Asia
+China,CHN,2015,0.08566562,Asia
+China,CHN,2020,0.099229366,Asia
+China,CHN,2024,0.11545786,Asia
+Colombia,COL,1990,0.31033227,South America
+Colombia,COL,1995,0.30596575,South America
+Colombia,COL,2000,0.2810519,South America
+Colombia,COL,2005,0.2622779,South America
+Colombia,COL,2010,0.28233936,South America
+Colombia,COL,2015,0.3097811,South America
+Colombia,COL,2020,3.8175135,South America
+Colombia,COL,2024,5.7926426,South America
+Comoros,COM,1990,3.166695,Africa
+Comoros,COM,1995,2.841296,Africa
+Comoros,COM,2000,2.5740561,Africa
+Comoros,COM,2005,2.2287014,Africa
+Comoros,COM,2010,1.9268947,Africa
+Comoros,COM,2015,1.7277158,Africa
+Comoros,COM,2020,1.5577881,Africa
+Comoros,COM,2024,1.4364872,Africa
+Congo,COG,1990,5.4353175,Africa
+Congo,COG,1995,6.9699116,Africa
+Congo,COG,2000,9.706332,Africa
+Congo,COG,2005,8.622568,Africa
+Congo,COG,2010,9.528134,Africa
+Congo,COG,2015,7.6534734,Africa
+Congo,COG,2020,6.7377033,Africa
+Congo,COG,2024,6.0886054,Africa
+Cook Islands,COK,1990,15.110981,Oceania
+Cook Islands,COK,1995,15.106012,Oceania
+Cook Islands,COK,2000,17.566545,Oceania
+Cook Islands,COK,2005,21.656094,Oceania
+Cook Islands,COK,2010,22.201933,Oceania
+Cook Islands,COK,2015,23.890863,Oceania
+Cook Islands,COK,2020,29.27188,Oceania
+Cook Islands,COK,2024,35.960377,Oceania
+Costa Rica,CRI,1990,13.378198,North America
+Costa Rica,CRI,1995,10.304635,North America
+Costa Rica,CRI,2000,7.896562,North America
+Costa Rica,CRI,2005,8.41065,North America
+Costa Rica,CRI,2010,8.906549,North America
+Costa Rica,CRI,2015,8.5449095,North America
+Costa Rica,CRI,2020,10.343581,North America
+Costa Rica,CRI,2024,12.249805,North America
+Cote d'Ivoire,CIV,1990,14.950018,Africa
+Cote d'Ivoire,CIV,1995,13.41572,Africa
+Cote d'Ivoire,CIV,2000,12.189042,Africa
+Cote d'Ivoire,CIV,2005,11.500974,Africa
+Cote d'Ivoire,CIV,2010,10.933782,Africa
+Cote d'Ivoire,CIV,2015,10.33625,Africa
+Cote d'Ivoire,CIV,2020,9.545953,Africa
+Cote d'Ivoire,CIV,2024,9.021163,Africa
+Croatia,HRV,1990,9.833125,Europe
+Croatia,HRV,1995,14.592606,Europe
+Croatia,HRV,2000,13.529445,Europe
+Croatia,HRV,2005,13.427915,Europe
+Croatia,HRV,2010,13.3278,Europe
+Croatia,HRV,2015,13.411313,Europe
+Croatia,HRV,2020,13.355124,Europe
+Croatia,HRV,2024,13.620303,Europe
+Cuba,CUB,1990,0.32501554,North America
+Cuba,CUB,1995,0.23969,North America
+Cuba,CUB,2000,0.16693509,North America
+Cuba,CUB,2005,0.10382192,North America
+Cuba,CUB,2010,0.06526275,North America
+Cuba,CUB,2015,0.04123258,North America
+Cuba,CUB,2020,0.027057124,North America
+Cuba,CUB,2024,0.019526798,North America
+Curacao,CUW,1990,27.706612,North America
+Curacao,CUW,1995,28.259502,North America
+Curacao,CUW,2000,29.650448,North America
+Curacao,CUW,2005,28.517048,North America
+Curacao,CUW,2010,22.074337,North America
+Curacao,CUW,2015,22.574005,North America
+Curacao,CUW,2020,30.921316,North America
+Curacao,CUW,2024,43.14165,North America
+Cyprus,CYP,1990,5.5565352,Europe
+Cyprus,CYP,1995,7.179942,Europe
+Cyprus,CYP,2000,8.449803,Europe
+Cyprus,CYP,2005,11.856283,Europe
+Cyprus,CYP,2010,16.711237,Europe
+Cyprus,CYP,2015,14.488947,Europe
+Cyprus,CYP,2020,14.618271,Europe
+Cyprus,CYP,2024,14.876292,Europe
+Czechia,CZE,1990,4.2945886,Europe
+Czechia,CZE,1995,5.149698,Europe
+Czechia,CZE,2000,6.2423587,Europe
+Czechia,CZE,2005,6.524115,Europe
+Czechia,CZE,2010,6.6150103,Europe
+Czechia,CZE,2015,6.5376263,Europe
+Czechia,CZE,2020,6.4475136,Europe
+Czechia,CZE,2024,9.549296,Europe
+Democratic Republic of Congo,COD,1990,2.0559173,Africa
+Democratic Republic of Congo,COD,1995,4.0891547,Africa
+Democratic Republic of Congo,COD,2000,1.4738165,Africa
+Democratic Republic of Congo,COD,2005,1.0599767,Africa
+Democratic Republic of Congo,COD,2010,0.86034983,Africa
+Democratic Republic of Congo,COD,2015,0.9995837,Africa
+Democratic Republic of Congo,COD,2020,0.9926774,Africa
+Democratic Republic of Congo,COD,2024,0.9929787,Africa
+Denmark,DNK,1990,4.588929,Europe
+Denmark,DNK,1995,5.6995506,Europe
+Denmark,DNK,2000,6.9691353,Europe
+Denmark,DNK,2005,7.8081503,Europe
+Denmark,DNK,2010,9.188241,Europe
+Denmark,DNK,2015,10.851046,Europe
+Denmark,DNK,2020,12.327057,Europe
+Denmark,DNK,2024,14.1779585,Europe
+Djibouti,DJI,1990,21.089384,Africa
+Djibouti,DJI,1995,15.760242,Africa
+Djibouti,DJI,2000,13.449027,Africa
+Djibouti,DJI,2005,10.976361,Africa
+Djibouti,DJI,2010,10.997785,Africa
+Djibouti,DJI,2015,11.011425,Africa
+Djibouti,DJI,2020,10.834175,Africa
+Djibouti,DJI,2024,10.780664,Africa
+Dominica,DMA,1990,3.6178493,North America
+Dominica,DMA,1995,4.4926515,North America
+Dominica,DMA,2000,5.434164,North America
+Dominica,DMA,2005,6.90197,North America
+Dominica,DMA,2010,11.777691,North America
+Dominica,DMA,2015,11.494106,North America
+Dominica,DMA,2020,12.259335,North America
+Dominica,DMA,2024,12.7482815,North America
+Dominican Republic,DOM,1990,4.071378,North America
+Dominican Republic,DOM,1995,4.099598,North America
+Dominican Republic,DOM,2000,4.1426272,North America
+Dominican Republic,DOM,2005,4.0695457,North America
+Dominican Republic,DOM,2010,4.0272093,North America
+Dominican Republic,DOM,2015,5.263996,North America
+Dominican Republic,DOM,2020,5.4848976,North America
+Dominican Republic,DOM,2024,6.46391,North America
+East Timor,TLS,1990,1.1776233,Asia
+East Timor,TLS,1995,1.1222767,Asia
+East Timor,TLS,2000,1.4229192,Asia
+East Timor,TLS,2005,1.1901159,Asia
+East Timor,TLS,2010,1.0639092,Asia
+East Timor,TLS,2015,0.70697707,Asia
+East Timor,TLS,2020,0.63338345,Asia
+East Timor,TLS,2024,0.5928013,Asia
+Eastern Africa (UN),,1990,3.2296526,
+Eastern Africa (UN),,1995,2.3871226,
+Eastern Africa (UN),,2000,2.019164,
+Eastern Africa (UN),,2005,1.718966,
+Eastern Africa (UN),,2010,1.2813147,
+Eastern Africa (UN),,2015,1.5947809,
+Eastern Africa (UN),,2020,1.6684688,
+Eastern Africa (UN),,2024,1.6582123,
+Eastern Asia (UN),,1990,0.30040458,
+Eastern Asia (UN),,1995,0.34289485,
+Eastern Asia (UN),,2000,0.39506274,
+Eastern Asia (UN),,2005,0.4317692,
+Eastern Asia (UN),,2010,0.4715576,
+Eastern Asia (UN),,2015,0.5651709,
+Eastern Asia (UN),,2020,0.6556228,
+Eastern Asia (UN),,2024,0.69798195,
+Eastern Europe (UN),,1990,7.165517,
+Eastern Europe (UN),,1995,7.003238,
+Eastern Europe (UN),,2000,6.845948,
+Eastern Europe (UN),,2005,6.729005,
+Eastern Europe (UN),,2010,6.5658636,
+Eastern Europe (UN),,2015,5.9529667,
+Eastern Europe (UN),,2020,5.5026393,
+Eastern Europe (UN),,2024,6.542419,
+Eastern and South-Eastern Asia (UN),,1990,0.37303874,
+Eastern and South-Eastern Asia (UN),,1995,0.42537248,
+Eastern and South-Eastern Asia (UN),,2000,0.51974475,
+Eastern and South-Eastern Asia (UN),,2005,0.602822,
+Eastern and South-Eastern Asia (UN),,2010,0.73264635,
+Eastern and South-Eastern Asia (UN),,2015,0.8287393,
+Eastern and South-Eastern Asia (UN),,2020,0.9041512,
+Eastern and South-Eastern Asia (UN),,2024,0.9607161,
+Ecuador,ECU,1990,1.3290849,South America
+Ecuador,ECU,1995,1.256424,South America
+Ecuador,ECU,2000,1.1867173,South America
+Ecuador,ECU,2005,1.0429965,South America
+Ecuador,ECU,2010,2.3803227,South America
+Ecuador,ECU,2015,2.041912,South America
+Ecuador,ECU,2020,4.1123753,South America
+Ecuador,ECU,2024,4.123128,South America
+Egypt,EGY,1990,0.24781059,Africa
+Egypt,EGY,1995,0.24492852,Africa
+Egypt,EGY,2000,0.2454241,Africa
+Egypt,EGY,2005,0.35627672,Africa
+Egypt,EGY,2010,0.362322,Africa
+Egypt,EGY,2015,0.5013106,Africa
+Egypt,EGY,2020,0.5511333,Africa
+Egypt,EGY,2024,0.9780651,Africa
+El Salvador,SLV,1990,0.8770815,North America
+El Salvador,SLV,1995,0.6861524,North America
+El Salvador,SLV,2000,0.5335865,North America
+El Salvador,SLV,2005,0.5999256,North America
+El Salvador,SLV,2010,0.66480464,North America
+El Salvador,SLV,2015,0.6801618,North America
+El Salvador,SLV,2020,0.68595415,North America
+El Salvador,SLV,2024,0.68382263,North America
+Equatorial Guinea,GNQ,1990,0.5777251,Africa
+Equatorial Guinea,GNQ,1995,0.63525796,Africa
+Equatorial Guinea,GNQ,2000,0.6422771,Africa
+Equatorial Guinea,GNQ,2005,0.6954011,Africa
+Equatorial Guinea,GNQ,2010,0.7281229,Africa
+Equatorial Guinea,GNQ,2015,14.416925,Africa
+Equatorial Guinea,GNQ,2020,13.435613,Africa
+Equatorial Guinea,GNQ,2024,13.15339,Africa
+Eritrea,ERI,1990,0.58285946,Africa
+Eritrea,ERI,1995,0.61226493,Africa
+Eritrea,ERI,2000,0.57640505,Africa
+Eritrea,ERI,2005,0.59765935,Africa
+Eritrea,ERI,2010,0.53691006,Africa
+Eritrea,ERI,2015,0.5133075,Africa
+Eritrea,ERI,2020,0.42336228,Africa
+Eritrea,ERI,2024,0.3538859,Africa
+Estonia,EST,1990,24.326324,Europe
+Estonia,EST,1995,21.734581,Europe
+Estonia,EST,2000,17.860598,Europe
+Estonia,EST,2005,17.24924,Europe
+Estonia,EST,2010,16.36489,Europe
+Estonia,EST,2015,14.808121,Europe
+Estonia,EST,2020,14.986963,Europe
+Estonia,EST,2024,14.9238615,Europe
+Eswatini,SWZ,1990,8.595666,Africa
+Eswatini,SWZ,1995,3.6228158,Africa
+Eswatini,SWZ,2000,3.272858,Africa
+Eswatini,SWZ,2005,3.0946543,Africa
+Eswatini,SWZ,2010,2.9359062,Africa
+Eswatini,SWZ,2015,2.8309093,Africa
+Eswatini,SWZ,2020,2.7548587,Africa
+Eswatini,SWZ,2024,2.6768112,Africa
+Ethiopia,ETH,1990,1.8385413,Africa
+Ethiopia,ETH,1995,0.8320024,Africa
+Ethiopia,ETH,2000,0.46199983,Africa
+Ethiopia,ETH,2005,0.21791312,Africa
+Ethiopia,ETH,2010,0.25080818,Africa
+Ethiopia,ETH,2015,0.76768655,Africa
+Ethiopia,ETH,2020,0.7359461,Africa
+Ethiopia,ETH,2024,0.88479257,Africa
+Europe,OWID_EUR,1990,7.1176405,
+Europe,OWID_EUR,1995,7.7556434,
+Europe,OWID_EUR,2000,8.141332,
+Europe,OWID_EUR,2005,9.006153,
+Europe,OWID_EUR,2010,9.849122,
+Europe,OWID_EUR,2015,10.195576,
+Europe,OWID_EUR,2020,11.093237,
+Europe,OWID_EUR,2024,12.646977,
+Europe and Northern America (UN),,1990,7.858215,
+Europe and Northern America (UN),,1995,8.748446,
+Europe and Northern America (UN),,2000,9.565317,
+Europe and Northern America (UN),,2005,10.511047,
+Europe and Northern America (UN),,2010,11.399494,
+Europe and Northern America (UN),,2015,11.905651,
+Europe and Northern America (UN),,2020,12.579412,
+Europe and Northern America (UN),,2024,13.735163,
+European Union (27),OWID_EU27,1990,5.869079,
+European Union (27),OWID_EU27,1995,6.8155637,
+European Union (27),OWID_EU27,2000,7.470279,
+European Union (27),OWID_EU27,2005,8.787381,
+European Union (27),OWID_EU27,2010,9.916046,
+European Union (27),OWID_EU27,2015,10.614218,
+European Union (27),OWID_EU27,2020,12.149938,
+European Union (27),OWID_EU27,2024,14.0620985,
+Falkland Islands,FLK,1990,36.44501,South America
+Falkland Islands,FLK,1995,31.358381,South America
+Falkland Islands,FLK,2000,34.452698,South America
+Falkland Islands,FLK,2005,36.24495,South America
+Falkland Islands,FLK,2010,44.91711,South America
+Falkland Islands,FLK,2015,46.09742,South America
+Falkland Islands,FLK,2020,55.818596,South America
+Falkland Islands,FLK,2024,67.23343,South America
+Faroe Islands,FRO,1990,9.021623,Europe
+Faroe Islands,FRO,1995,6.6152654,Europe
+Faroe Islands,FRO,2000,7.868515,Europe
+Faroe Islands,FRO,2005,9.4766445,Europe
+Faroe Islands,FRO,2010,10.579418,Europe
+Faroe Islands,FRO,2015,11.218145,Europe
+Faroe Islands,FRO,2020,12.953772,Europe
+Faroe Islands,FRO,2024,14.622744,Europe
+Fiji,FJI,1990,1.7176678,Oceania
+Fiji,FJI,1995,1.6276764,Oceania
+Fiji,FJI,2000,1.5125299,Oceania
+Fiji,FJI,2005,1.409145,Oceania
+Fiji,FJI,2010,1.4671267,Oceania
+Fiji,FJI,2015,1.4969877,Oceania
+Fiji,FJI,2020,1.539625,Oceania
+Fiji,FJI,2024,1.546323,Oceania
+Finland,FIN,1990,1.2685059,Europe
+Finland,FIN,1995,1.9524378,Europe
+Finland,FIN,2000,2.631331,Europe
+Finland,FIN,2005,3.6630957,Europe
+Finland,FIN,2010,4.2600427,Europe
+Finland,FIN,2015,5.7458444,Europe
+Finland,FIN,2020,6.981539,Europe
+Finland,FIN,2024,9.157978,Europe
+France,FRA,1990,10.335144,Europe
+France,FRA,1995,10.20124,Europe
+France,FRA,2000,10.324422,Europe
+France,FRA,2005,11.099186,Europe
+France,FRA,2010,11.546065,Europe
+France,FRA,2015,12.289782,Europe
+France,FRA,2020,13.065295,Europe
+France,FRA,2024,13.804598,Europe
+French Guiana,GUF,1990,56.45067,South America
+French Guiana,GUF,1995,52.090496,South America
+French Guiana,GUF,2000,47.720707,South America
+French Guiana,GUF,2005,42.711426,South America
+French Guiana,GUF,2010,41.049603,South America
+French Guiana,GUF,2015,39.83586,South America
+French Guiana,GUF,2020,41.25478,South America
+French Guiana,GUF,2024,42.43587,South America
+French Polynesia,PYF,1990,12.675683,Oceania
+French Polynesia,PYF,1995,12.767988,Oceania
+French Polynesia,PYF,2000,12.619364,Oceania
+French Polynesia,PYF,2005,12.441283,Oceania
+French Polynesia,PYF,2010,11.693399,Oceania
+French Polynesia,PYF,2015,10.817445,Oceania
+French Polynesia,PYF,2020,10.77365,Oceania
+French Polynesia,PYF,2024,10.680714,Oceania
+Gabon,GAB,1990,13.030758,Africa
+Gabon,GAB,1995,15.262198,Africa
+Gabon,GAB,2000,16.810575,Africa
+Gabon,GAB,2005,15.977096,Africa
+Gabon,GAB,2010,15.74698,Africa
+Gabon,GAB,2015,18.554045,Africa
+Gabon,GAB,2020,17.939463,Africa
+Gabon,GAB,2024,17.713844,Africa
+Gambia,GMB,1990,11.19972,Africa
+Gambia,GMB,1995,11.934545,Africa
+Gambia,GMB,2000,12.543194,Africa
+Gambia,GMB,2005,10.907916,Africa
+Gambia,GMB,2010,9.645702,Africa
+Gambia,GMB,2015,8.655315,Africa
+Gambia,GMB,2020,8.5724125,Africa
+Gambia,GMB,2024,8.555726,Africa
+Georgia,GEO,1990,5.587766,Asia
+Georgia,GEO,1995,3.0905998,Asia
+Georgia,GEO,2000,1.7585653,Asia
+Georgia,GEO,2005,1.7708316,Asia
+Georgia,GEO,2010,1.8757548,Asia
+Georgia,GEO,2015,2.0225115,Asia
+Georgia,GEO,2020,2.0910099,Asia
+Georgia,GEO,2024,2.14257,Asia
+Germany,DEU,1990,8.732017,Europe
+Germany,DEU,1995,11.749843,Europe
+Germany,DEU,2000,12.711256,Europe
+Germany,DEU,2005,13.663665,Europe
+Germany,DEU,2010,14.432533,Europe
+Germany,DEU,2015,15.408371,Europe
+Germany,DEU,2020,17.961895,Europe
+Germany,DEU,2024,19.810337,Europe
+Ghana,GHA,1990,1.0708332,Africa
+Ghana,GHA,1995,1.4534097,Africa
+Ghana,GHA,2000,0.9757099,Africa
+Ghana,GHA,2005,1.380578,Africa
+Ghana,GHA,2010,1.3258727,Africa
+Ghana,GHA,2015,1.445299,Africa
+Ghana,GHA,2020,1.4940255,Africa
+Ghana,GHA,2024,1.5461109,Africa
+Gibraltar,GIB,1990,32.018383,Europe
+Gibraltar,GIB,1995,30.613289,Europe
+Gibraltar,GIB,2000,29.066368,Europe
+Gibraltar,GIB,2005,31.584541,Europe
+Gibraltar,GIB,2010,33.182922,Europe
+Gibraltar,GIB,2015,33.335342,Europe
+Gibraltar,GIB,2020,30.934675,Europe
+Gibraltar,GIB,2024,28.709095,Europe
+Greece,GRC,1990,6.0256352,Europe
+Greece,GRC,1995,8.155061,Europe
+Greece,GRC,2000,10.309772,Europe
+Greece,GRC,2005,10.843009,Europe
+Greece,GRC,2010,11.875849,Europe
+Greece,GRC,2015,11.486324,Europe
+Greece,GRC,2020,12.528365,Europe
+Greece,GRC,2024,14.171874,Europe
+Greenland,GRL,1990,16.685242,North America
+Greenland,GRL,1995,12.752507,North America
+Greenland,GRL,2000,11.743671,North America
+Greenland,GRL,2005,11.511852,North America
+Greenland,GRL,2010,10.758822,North America
+Greenland,GRL,2015,10.726335,North America
+Greenland,GRL,2020,10.518902,North America
+Greenland,GRL,2024,10.408309,North America
+Grenada,GRD,1990,4.264834,North America
+Grenada,GRD,1995,5.3374925,North America
+Grenada,GRD,2000,6.3517323,North America
+Grenada,GRD,2005,6.2897553,North America
+Grenada,GRD,2010,6.2552648,North America
+Grenada,GRD,2015,6.1538596,North America
+Grenada,GRD,2020,6.1998777,North America
+Grenada,GRD,2024,6.2624245,North America
+Guadeloupe,GLP,1990,16.960339,North America
+Guadeloupe,GLP,1995,18.17867,North America
+Guadeloupe,GLP,2000,19.827108,North America
+Guadeloupe,GLP,2005,21.825539,North America
+Guadeloupe,GLP,2010,23.223879,North America
+Guadeloupe,GLP,2015,22.516647,North America
+Guadeloupe,GLP,2020,22.1422,North America
+Guadeloupe,GLP,2024,23.889248,North America
+Guam,GUM,1990,50.324654,Oceania
+Guam,GUM,1995,47.92408,Oceania
+Guam,GUM,2000,46.274952,Oceania
+Guam,GUM,2005,45.473793,Oceania
+Guam,GUM,2010,45.28891,Oceania
+Guam,GUM,2015,46.141113,Oceania
+Guam,GUM,2020,49.625675,Oceania
+Guam,GUM,2024,50.161224,Oceania
+Guatemala,GTM,1990,2.928129,North America
+Guatemala,GTM,1995,1.5144775,North America
+Guatemala,GTM,2000,0.41135818,North America
+Guatemala,GTM,2005,0.43716094,North America
+Guatemala,GTM,2010,0.45783094,North America
+Guatemala,GTM,2015,0.46865267,North America
+Guatemala,GTM,2020,0.4857373,North America
+Guatemala,GTM,2024,0.50380415,North America
+Guinea,GIN,1990,6.2728868,Africa
+Guinea,GIN,1995,10.253932,Africa
+Guinea,GIN,2000,6.644752,Africa
+Guinea,GIN,2005,2.5245829,Africa
+Guinea,GIN,2010,1.7195125,Africa
+Guinea,GIN,2015,1.0763682,Africa
+Guinea,GIN,2020,0.90819937,Africa
+Guinea,GIN,2024,0.7957825,Africa
+Guinea-Bissau,GNB,1990,1.5783598,Africa
+Guinea-Bissau,GNB,1995,2.4966316,Africa
+Guinea-Bissau,GNB,2000,1.6562178,Africa
+Guinea-Bissau,GNB,2005,1.5129,Africa
+Guinea-Bissau,GNB,2010,1.3656616,Africa
+Guinea-Bissau,GNB,2015,1.250128,Africa
+Guinea-Bissau,GNB,2020,0.89134264,Africa
+Guinea-Bissau,GNB,2024,0.68430674,Africa
+Guyana,GUY,1990,0.5460772,South America
+Guyana,GUY,1995,0.837566,South America
+Guyana,GUY,2000,1.1257374,South America
+Guyana,GUY,2005,1.4282823,South America
+Guyana,GUY,2010,1.0920166,South America
+Guyana,GUY,2015,1.1414361,South America
+Guyana,GUY,2020,3.860029,South America
+Guyana,GUY,2024,6.5185714,South America
+Haiti,HTI,1990,0.27841803,North America
+Haiti,HTI,1995,0.23972085,North America
+Haiti,HTI,2000,0.20741524,North America
+Haiti,HTI,2005,0.18054858,North America
+Haiti,HTI,2010,0.17526762,North America
+Haiti,HTI,2015,0.17149659,North America
+Haiti,HTI,2020,0.16794962,North America
+Haiti,HTI,2024,0.1663275,North America
+High-income countries,OWID_HIC,1990,7.4753985,
+High-income countries,OWID_HIC,1995,8.371351,
+High-income countries,OWID_HIC,2000,9.251442,
+High-income countries,OWID_HIC,2005,10.347589,
+High-income countries,OWID_HIC,2010,11.649936,
+High-income countries,OWID_HIC,2015,12.742659,
+High-income countries,OWID_HIC,2020,13.502839,
+High-income countries,OWID_HIC,2024,14.593085,
+Honduras,HND,1990,5.429649,North America
+Honduras,HND,1995,2.6036837,North America
+Honduras,HND,2000,0.43268442,North America
+Honduras,HND,2005,0.37353134,North America
+Honduras,HND,2010,0.32618213,North America
+Honduras,HND,2015,0.41494787,North America
+Honduras,HND,2020,0.38731614,North America
+Honduras,HND,2024,0.36857653,North America
+Hong Kong,HKG,1990,39.89631,Asia
+Hong Kong,HKG,1995,39.562195,Asia
+Hong Kong,HKG,2000,39.80993,Asia
+Hong Kong,HKG,2005,39.389744,Asia
+Hong Kong,HKG,2010,39.14531,Asia
+Hong Kong,HKG,2015,38.568493,Asia
+Hong Kong,HKG,2020,39.551388,Asia
+Hong Kong,HKG,2024,41.312954,Asia
+Hungary,HUN,1990,3.3474674,Europe
+Hungary,HUN,1995,3.1215792,Europe
+Hungary,HUN,2000,2.9140286,Europe
+Hungary,HUN,2005,3.643927,Europe
+Hungary,HUN,2010,4.375292,Europe
+Hungary,HUN,2015,4.832786,Europe
+Hungary,HUN,2020,5.995893,Europe
+Hungary,HUN,2024,7.126451,Europe
+Iceland,ISL,1990,3.7608943,Europe
+Iceland,ISL,1995,4.761691,Europe
+Iceland,ISL,2000,5.649886,Europe
+Iceland,ISL,2005,8.587965,Europe
+Iceland,ISL,2010,11.029426,Europe
+Iceland,ISL,2015,11.805942,Europe
+Iceland,ISL,2020,17.845472,Europe
+Iceland,ISL,2024,25.119219,Europe
+India,IND,1990,0.8338755,Asia
+India,IND,1995,0.71194977,Asia
+India,IND,2000,0.6041597,Asia
+India,IND,2005,0.51572883,Asia
+India,IND,2010,0.45044795,Asia
+India,IND,2015,0.39549693,Asia
+India,IND,2020,0.35147253,Asia
+India,IND,2024,0.33056286,Asia
+Indonesia,IDN,1990,0.050167546,Asia
+Indonesia,IDN,1995,0.05724154,Asia
+Indonesia,IDN,2000,0.13312104,Asia
+Indonesia,IDN,2005,0.037903313,Asia
+Indonesia,IDN,2010,0.045994945,Asia
+Indonesia,IDN,2015,0.07338409,Asia
+Indonesia,IDN,2020,0.11160313,Asia
+Indonesia,IDN,2024,0.15722927,Asia
+Iran,IRN,1990,7.3511376,Asia
+Iran,IRN,1995,4.722516,Asia
+Iran,IRN,2000,3.7285743,Asia
+Iran,IRN,2005,3.5531962,Asia
+Iran,IRN,2010,3.516362,Asia
+Iran,IRN,2015,3.3042364,Asia
+Iran,IRN,2020,3.1886973,Asia
+Iran,IRN,2024,4.194331,Asia
+Iraq,IRQ,1990,0.4757239,Asia
+Iraq,IRQ,1995,0.9577516,Asia
+Iraq,IRQ,2000,0.86195755,Asia
+Iraq,IRQ,2005,0.4747452,Asia
+Iraq,IRQ,2010,0.38803214,Asia
+Iraq,IRQ,2015,0.95672756,Asia
+Iraq,IRQ,2020,0.8684603,Asia
+Iraq,IRQ,2024,0.8057423,Asia
+Ireland,IRL,1990,6.482124,Europe
+Ireland,IRL,1995,6.851281,Europe
+Ireland,IRL,2000,9.896452,Europe
+Ireland,IRL,2005,14.934695,Europe
+Ireland,IRL,2010,16.480978,Europe
+Ireland,IRL,2015,17.0648,Europe
+Ireland,IRL,2020,19.100166,Europe
+Ireland,IRL,2024,23.144302,Europe
+Isle of Man,IMN,1990,50.451275,Europe
+Isle of Man,IMN,1995,51.579433,Europe
+Isle of Man,IMN,2000,51.549717,Europe
+Isle of Man,IMN,2005,52.159313,Europe
+Isle of Man,IMN,2010,51.800938,Europe
+Isle of Man,IMN,2015,50.528152,Europe
+Isle of Man,IMN,2020,51.199085,Europe
+Isle of Man,IMN,2024,51.916588,Europe
+Israel,ISR,1990,35.69869,Asia
+Israel,ISR,1995,33.26233,Asia
+Israel,ISR,2000,30.078512,Asia
+Israel,ISR,2005,27.957186,Asia
+Israel,ISR,2010,26.622387,Asia
+Israel,ISR,2015,25.082752,Asia
+Israel,ISR,2020,23.508427,Asia
+Israel,ISR,2024,22.2815,Asia
+Italy,ITA,1990,2.6816201,Europe
+Italy,ITA,1995,3.154245,Europe
+Italy,ITA,2000,3.742233,Europe
+Italy,ITA,2005,5.615038,Europe
+Italy,ITA,2010,7.84392,Europe
+Italy,ITA,2015,9.08984,Europe
+Italy,ITA,2020,10.388187,Europe
+Italy,ITA,2024,11.043738,Europe
+Jamaica,JAM,1990,0.86033857,North America
+Jamaica,JAM,1995,0.90846515,North America
+Jamaica,JAM,2000,0.9568123,North America
+Jamaica,JAM,2005,0.90373665,North America
+Jamaica,JAM,2010,0.8614304,North America
+Jamaica,JAM,2015,0.8265734,North America
+Jamaica,JAM,2020,0.834729,North America
+Jamaica,JAM,2024,0.8455625,North America
+Japan,JPN,1990,0.85127795,Asia
+Japan,JPN,1995,1.0591755,Asia
+Japan,JPN,2000,1.3003997,Asia
+Japan,JPN,2005,1.5452088,Asia
+Japan,JPN,2010,1.6864495,Asia
+Japan,JPN,2015,2.0251184,Asia
+Japan,JPN,2020,2.6040568,Asia
+Japan,JPN,2024,2.7551072,Asia
+Jordan,JOR,1990,31.241241,Asia
+Jordan,JOR,1995,31.810469,Asia
+Jordan,JOR,2000,34.04824,Asia
+Jordan,JOR,2005,36.97381,Asia
+Jordan,JOR,2010,51.02571,Asia
+Jordan,JOR,2015,45.962288,Asia
+Jordan,JOR,2020,45.46745,Asia
+Jordan,JOR,2024,45.70436,Asia
+Kazakhstan,KAZ,1990,19.173649,Asia
+Kazakhstan,KAZ,1995,13.507965,Asia
+Kazakhstan,KAZ,2000,11.182262,Asia
+Kazakhstan,KAZ,2005,11.558263,Asia
+Kazakhstan,KAZ,2010,11.028633,Asia
+Kazakhstan,KAZ,2015,10.616578,Asia
+Kazakhstan,KAZ,2020,10.215871,Asia
+Kazakhstan,KAZ,2024,10.148306,Asia
+Kenya,KEN,1990,1.3021165,Africa
+Kenya,KEN,1995,2.3259559,Africa
+Kenya,KEN,2000,2.310004,Africa
+Kenya,KEN,2005,2.160419,Africa
+Kenya,KEN,2010,2.2955718,Africa
+Kenya,KEN,2015,2.3931222,Africa
+Kenya,KEN,2020,2.011108,Africa
+Kenya,KEN,2024,1.7587882,Africa
+Kiribati,KIR,1990,2.8882506,Oceania
+Kiribati,KIR,1995,2.736539,Oceania
+Kiribati,KIR,2000,2.5763714,Oceania
+Kiribati,KIR,2005,2.536849,Oceania
+Kiribati,KIR,2010,2.6383574,Oceania
+Kiribati,KIR,2015,2.498823,Oceania
+Kiribati,KIR,2020,2.4790046,Oceania
+Kiribati,KIR,2024,2.45469,Oceania
+Kuwait,KWT,1990,62.685844,Asia
+Kuwait,KWT,1995,55.613724,Asia
+Kuwait,KWT,2000,57.140575,Asia
+Kuwait,KWT,2005,60.53095,Asia
+Kuwait,KWT,2010,63.594646,Asia
+Kuwait,KWT,2015,68.08753,Asia
+Kuwait,KWT,2020,68.878,Asia
+Kuwait,KWT,2024,67.345955,Asia
+Kyrgyzstan,KGZ,1990,13.971903,Asia
+Kyrgyzstan,KGZ,1995,10.996567,Asia
+Kyrgyzstan,KGZ,2000,7.7574677,Asia
+Kyrgyzstan,KGZ,2005,5.8974347,Asia
+Kyrgyzstan,KGZ,2010,4.2256937,Asia
+Kyrgyzstan,KGZ,2015,3.4052985,Asia
+Kyrgyzstan,KGZ,2020,2.986297,Asia
+Kyrgyzstan,KGZ,2024,2.711046,Asia
+Land-locked Developing Countries (LLDC),,1990,5.2495513,
+Land-locked Developing Countries (LLDC),,1995,3.9543738,
+Land-locked Developing Countries (LLDC),,2000,3.2195961,
+Land-locked Developing Countries (LLDC),,2005,2.809925,
+Land-locked Developing Countries (LLDC),,2010,2.283685,
+Land-locked Developing Countries (LLDC),,2015,2.438925,
+Land-locked Developing Countries (LLDC),,2020,2.4139013,
+Land-locked Developing Countries (LLDC),,2024,2.5260112,
+Laos,LAO,1990,0.5302931,Asia
+Laos,LAO,1995,0.47725803,Asia
+Laos,LAO,2000,0.4041087,Asia
+Laos,LAO,2005,0.347064,Asia
+Laos,LAO,2010,0.5202714,Asia
+Laos,LAO,2015,0.66951454,Asia
+Laos,LAO,2020,0.6633197,Asia
+Laos,LAO,2024,0.6621261,Asia
+Latin America and the Caribbean (UN),UN_LAC,1990,1.6414516,
+Latin America and the Caribbean (UN),UN_LAC,1995,1.3950965,
+Latin America and the Caribbean (UN),UN_LAC,2000,1.2639965,
+Latin America and the Caribbean (UN),UN_LAC,2005,1.2786158,
+Latin America and the Caribbean (UN),UN_LAC,2010,1.4052905,
+Latin America and the Caribbean (UN),UN_LAC,2015,1.4692472,
+Latin America and the Caribbean (UN),UN_LAC,2020,2.209234,
+Latin America and the Caribbean (UN),UN_LAC,2024,2.6392498,
+Latvia,LVA,1990,24.284782,Europe
+Latvia,LVA,1995,21.645376,Europe
+Latvia,LVA,2000,18.1639,Europe
+Latvia,LVA,2005,16.819702,Europe
+Latvia,LVA,2010,14.95764,Europe
+Latvia,LVA,2015,13.419406,Europe
+Latvia,LVA,2020,12.593715,Europe
+Latvia,LVA,2024,11.778109,Europe
+Lebanon,LBN,1990,11.807158,Asia
+Lebanon,LBN,1995,11.776526,Asia
+Lebanon,LBN,2000,11.891789,Asia
+Lebanon,LBN,2005,11.856945,Asia
+Lebanon,LBN,2010,12.41516,Asia
+Lebanon,LBN,2015,27.249523,Asia
+Lebanon,LBN,2020,27.818928,Asia
+Lebanon,LBN,2024,24.502106,Asia
+Lesotho,LSO,1990,0.4553251,Africa
+Lesotho,LSO,1995,0.36916384,Africa
+Lesotho,LSO,2000,0.3077479,Africa
+Lesotho,LSO,2005,0.32205608,Africa
+Lesotho,LSO,2010,0.3213023,Africa
+Lesotho,LSO,2015,0.43485472,Africa
+Lesotho,LSO,2020,0.53942186,Africa
+Lesotho,LSO,2024,0.64340085,Africa
+Liberia,LBR,1990,4.2706037,Africa
+Liberia,LBR,1995,9.614911,Africa
+Liberia,LBR,2000,5.1865416,Africa
+Liberia,LBR,2005,2.6421268,Africa
+Liberia,LBR,2010,2.4431555,Africa
+Liberia,LBR,2015,2.4061093,Africa
+Liberia,LBR,2020,1.7078868,Africa
+Liberia,LBR,2024,1.2903147,Africa
+Libya,LBY,1990,10.28235,Africa
+Libya,LBY,1995,10.3537245,Africa
+Libya,LBY,2000,10.696206,Africa
+Libya,LBY,2005,10.674749,Africa
+Libya,LBY,2010,10.575701,Africa
+Libya,LBY,2015,11.805991,Africa
+Libya,LBY,2020,11.7315855,Africa
+Libya,LBY,2024,12.162962,Africa
+Liechtenstein,LIE,1990,37.754005,Europe
+Liechtenstein,LIE,1995,42.89305,Europe
+Liechtenstein,LIE,2000,46.75807,Europe
+Liechtenstein,LIE,2005,54.475224,Europe
+Liechtenstein,LIE,2010,62.062836,Europe
+Liechtenstein,LIE,2015,63.63369,Europe
+Liechtenstein,LIE,2020,66.75007,Europe
+Liechtenstein,LIE,2024,69.39804,Europe
+Lithuania,LTU,1990,9.4521475,Europe
+Lithuania,LTU,1995,7.542987,Europe
+Lithuania,LTU,2000,6.122468,Europe
+Lithuania,LTU,2005,6.056384,Europe
+Lithuania,LTU,2010,5.1900105,Europe
+Lithuania,LTU,2015,4.681075,Europe
+Lithuania,LTU,2020,5.1929975,Europe
+Lithuania,LTU,2024,6.127571,Europe
+Low-income countries,OWID_LIC,1990,2.9920185,
+Low-income countries,OWID_LIC,1995,2.4339309,
+Low-income countries,OWID_LIC,2000,1.7406375,
+Low-income countries,OWID_LIC,2005,1.5409048,
+Low-income countries,OWID_LIC,2010,1.505946,
+Low-income countries,OWID_LIC,2015,1.5794877,
+Low-income countries,OWID_LIC,2020,1.6964206,
+Low-income countries,OWID_LIC,2024,1.8873818,
+Lower-middle-income countries,OWID_LMC,1990,1.6405413,
+Lower-middle-income countries,OWID_LMC,1995,1.3688384,
+Lower-middle-income countries,OWID_LMC,2000,1.2255311,
+Lower-middle-income countries,OWID_LMC,2005,1.0689886,
+Lower-middle-income countries,OWID_LMC,2010,1.0270567,
+Lower-middle-income countries,OWID_LMC,2015,1.0189137,
+Lower-middle-income countries,OWID_LMC,2020,0.9684819,
+Lower-middle-income countries,OWID_LMC,2024,1.0007455,
+Luxembourg,LUX,1990,29.81268,Europe
+Luxembourg,LUX,1995,30.891146,Europe
+Luxembourg,LUX,2000,32.043053,Europe
+Luxembourg,LUX,2005,32.3657,Europe
+Luxembourg,LUX,2010,32.15191,Europe
+Luxembourg,LUX,2015,43.700134,Europe
+Luxembourg,LUX,2020,47.26664,Europe
+Luxembourg,LUX,2024,51.15759,Europe
+Macao,MAC,1990,58.397484,Asia
+Macao,MAC,1995,56.41659,Asia
+Macao,MAC,2000,55.06198,Asia
+Macao,MAC,2005,56.379047,Asia
+Macao,MAC,2010,56.592503,Asia
+Macao,MAC,2015,60.44338,Asia
+Macao,MAC,2020,59.07034,Asia
+Macao,MAC,2024,59.264824,Asia
+Madagascar,MDG,1990,0.19838849,Africa
+Madagascar,MDG,1995,0.1507123,Africa
+Madagascar,MDG,2000,0.14253159,Africa
+Madagascar,MDG,2005,0.13600416,Africa
+Madagascar,MDG,2010,0.13030049,Africa
+Madagascar,MDG,2015,0.12614691,Africa
+Madagascar,MDG,2020,0.122827746,Africa
+Madagascar,MDG,2024,0.12083545,Africa
+Malawi,MWI,1990,11.81376,Africa
+Malawi,MWI,1995,2.3805046,Africa
+Malawi,MWI,2000,2.0556839,Africa
+Malawi,MWI,2005,1.7263277,Africa
+Malawi,MWI,2010,1.4684689,Africa
+Malawi,MWI,2015,1.1549383,Africa
+Malawi,MWI,2020,0.97964114,Africa
+Malawi,MWI,2024,0.8622329,Africa
+Malaysia,MYS,1990,5.7621384,Asia
+Malaysia,MYS,1995,6.4573994,Asia
+Malaysia,MYS,2000,7.0264363,Asia
+Malaysia,MYS,2005,8.415784,Asia
+Malaysia,MYS,2010,10.7722645,Asia
+Malaysia,MYS,2015,11.249383,Asia
+Malaysia,MYS,2020,10.972984,Asia
+Malaysia,MYS,2024,10.705183,Asia
+Maldives,MDV,1990,3.865867,Asia
+Maldives,MDV,1995,7.212185,Asia
+Maldives,MDV,2000,9.606445,Asia
+Maldives,MDV,2005,14.69998,Asia
+Maldives,MDV,2010,15.149726,Asia
+Maldives,MDV,2015,15.011655,Asia
+Maldives,MDV,2020,13.956679,Asia
+Maldives,MDV,2024,14.228712,Asia
+Mali,MLI,1990,1.75116,Africa
+Mali,MLI,1995,1.7298055,Africa
+Mali,MLI,2000,1.6391578,Africa
+Mali,MLI,2005,1.9103091,Africa
+Mali,MLI,2010,2.139064,Africa
+Mali,MLI,2015,2.2616227,Africa
+Mali,MLI,2020,2.2374167,Africa
+Mali,MLI,2024,2.2277546,Africa
+Malta,MLT,1990,4.0980353,Europe
+Malta,MLT,1995,4.6131845,Europe
+Malta,MLT,2000,5.381663,Europe
+Malta,MLT,2005,5.942127,Europe
+Malta,MLT,2010,7.8097534,Europe
+Malta,MLT,2015,11.830168,Europe
+Malta,MLT,2020,22.14559,Europe
+Malta,MLT,2024,36.96505,Europe
+Marshall Islands,MHL,1990,2.5947254,Oceania
+Marshall Islands,MHL,1995,3.0663407,Oceania
+Marshall Islands,MHL,2000,3.7293417,Oceania
+Marshall Islands,MHL,2005,4.6564946,Oceania
+Marshall Islands,MHL,2010,5.9353623,Oceania
+Marshall Islands,MHL,2015,6.7295084,Oceania
+Marshall Islands,MHL,2020,7.722568,Oceania
+Marshall Islands,MHL,2024,8.812719,Oceania
+Martinique,MTQ,1990,10.432614,North America
+Martinique,MTQ,1995,11.548785,North America
+Martinique,MTQ,2000,12.931734,North America
+Martinique,MTQ,2005,14.192964,North America
+Martinique,MTQ,2010,14.9917965,North America
+Martinique,MTQ,2015,18.026691,North America
+Martinique,MTQ,2020,19.243162,North America
+Martinique,MTQ,2024,19.868296,North America
+Mauritania,MRT,1990,5.720132,Africa
+Mauritania,MRT,1995,3.8737605,Africa
+Mauritania,MRT,2000,2.1950371,Africa
+Mauritania,MRT,2005,1.9805999,Africa
+Mauritania,MRT,2010,2.5043018,Africa
+Mauritania,MRT,2015,4.199539,Africa
+Mauritania,MRT,2020,3.9626262,Africa
+Mauritania,MRT,2024,3.7903275,Africa
+Mauritius,MUS,1990,0.33176497,Africa
+Mauritius,MUS,1995,0.64604795,Africa
+Mauritius,MUS,2000,1.2775464,Africa
+Mauritius,MUS,2005,1.5627398,Africa
+Mauritius,MUS,2010,1.9362147,Africa
+Mauritius,MUS,2015,2.2119906,Africa
+Mauritius,MUS,2020,2.2515962,Africa
+Mauritius,MUS,2024,2.2925355,Africa
+Mayotte,MYT,1990,16.99798,Africa
+Mayotte,MYT,1995,21.46913,Africa
+Mayotte,MYT,2000,29.058355,Africa
+Mayotte,MYT,2005,35.17575,Africa
+Mayotte,MYT,2010,35.0768,Africa
+Mayotte,MYT,2015,33.140457,Africa
+Mayotte,MYT,2020,39.223545,Africa
+Mayotte,MYT,2024,43.958897,Africa
+Melanesia,OWID_MNS,1990,1.7124349,
+Melanesia,OWID_MNS,1995,1.5629333,
+Melanesia,OWID_MNS,2000,1.3182536,
+Melanesia,OWID_MNS,2005,1.2431154,
+Melanesia,OWID_MNS,2010,1.1558318,
+Melanesia,OWID_MNS,2015,1.099884,
+Melanesia,OWID_MNS,2020,1.0289477,
+Melanesia,OWID_MNS,2024,0.9892313,
+Mexico,MEX,1990,0.8470316,North America
+Mexico,MEX,1995,0.5041147,North America
+Mexico,MEX,2000,0.5335047,North America
+Mexico,MEX,2005,0.6632578,North America
+Mexico,MEX,2010,0.84277433,North America
+Mexico,MEX,2015,0.8992403,North America
+Mexico,MEX,2020,1.0529684,North America
+Mexico,MEX,2024,1.3190247,North America
+Micronesia,,1990,25.507486,
+Micronesia,,1995,25.506533,
+Micronesia,,2000,25.570236,
+Micronesia,,2005,24.788538,
+Micronesia,,2010,22.17946,
+Micronesia,,2015,21.842564,
+Micronesia,,2020,22.908665,
+Micronesia,,2024,23.423536,
+Micronesia (country),FSM,1990,3.6525652,Oceania
+Micronesia (country),FSM,1995,3.0318425,Oceania
+Micronesia (country),FSM,2000,2.7810502,Oceania
+Micronesia (country),FSM,2005,2.607439,Oceania
+Micronesia (country),FSM,2010,2.6092618,Oceania
+Micronesia (country),FSM,2015,2.5350454,Oceania
+Micronesia (country),FSM,2020,2.5532835,Oceania
+Micronesia (country),FSM,2024,2.5574408,Oceania
+Middle Africa (UN),,1990,2.0165396,
+Middle Africa (UN),,1995,3.088451,
+Middle Africa (UN),,2000,1.7889756,
+Middle Africa (UN),,2005,1.6909394,
+Middle Africa (UN),,2010,1.7932885,
+Middle Africa (UN),,2015,2.1745846,
+Middle Africa (UN),,2020,2.054985,
+Middle Africa (UN),,2024,2.2802432,
+Moldova,MDA,1990,11.983358,Europe
+Moldova,MDA,1995,8.270991,Europe
+Moldova,MDA,2000,5.906398,Europe
+Moldova,MDA,2005,4.3689513,Europe
+Moldova,MDA,2010,3.6449971,Europe
+Moldova,MDA,2015,3.094765,Europe
+Moldova,MDA,2020,2.518335,Europe
+Moldova,MDA,2024,6.2012987,Europe
+Monaco,MCO,1990,67.06305,Europe
+Monaco,MCO,1995,66.626595,Europe
+Monaco,MCO,2000,67.129875,Europe
+Monaco,MCO,2005,66.16579,Europe
+Monaco,MCO,2010,63.72162,Europe
+Monaco,MCO,2015,70.688576,Europe
+Monaco,MCO,2020,69.910645,Europe
+Monaco,MCO,2024,70.16644,Europe
+Mongolia,MNG,1990,0.31036144,Asia
+Mongolia,MNG,1995,0.31784698,Asia
+Mongolia,MNG,2000,0.33423185,Asia
+Mongolia,MNG,2005,0.447715,Asia
+Mongolia,MNG,2010,0.5945075,Asia
+Mongolia,MNG,2015,0.6680943,Asia
+Mongolia,MNG,2020,0.6486294,Asia
+Mongolia,MNG,2024,0.64994216,Asia
+Montenegro,MNE,1990,11.884505,Europe
+Montenegro,MNE,1995,11.679636,Europe
+Montenegro,MNE,2000,11.627849,Europe
+Montenegro,MNE,2005,11.630471,Europe
+Montenegro,MNE,2010,12.421055,Europe
+Montenegro,MNE,2015,11.417586,Europe
+Montenegro,MNE,2020,11.678716,Europe
+Montenegro,MNE,2024,14.446364,Europe
+Montserrat,MSR,1990,18.853611,North America
+Montserrat,MSR,1995,19.574986,North America
+Montserrat,MSR,2000,24.080334,North America
+Montserrat,MSR,2005,27.358698,North America
+Montserrat,MSR,2010,26.929495,North America
+Montserrat,MSR,2015,28.910765,North America
+Montserrat,MSR,2020,30.590061,North America
+Montserrat,MSR,2024,31.943495,North America
+Morocco,MAR,1990,0.22520517,Africa
+Morocco,MAR,1995,0.1907617,Africa
+Morocco,MAR,2000,0.18658547,Africa
+Morocco,MAR,2005,0.18519577,Africa
+Morocco,MAR,2010,0.21926561,Africa
+Morocco,MAR,2015,0.2670628,Africa
+Morocco,MAR,2020,0.2797874,Africa
+Morocco,MAR,2024,0.2916638,Africa
+Mozambique,MOZ,1990,0.9342216,Africa
+Mozambique,MOZ,1995,1.0542005,Africa
+Mozambique,MOZ,2000,1.079458,Africa
+Mozambique,MOZ,2005,1.3233179,Africa
+Mozambique,MOZ,2010,1.3325269,Africa
+Mozambique,MOZ,2015,1.212141,Africa
+Mozambique,MOZ,2020,1.1007453,Africa
+Mozambique,MOZ,2024,1.0197083,Africa
+Myanmar,MMR,1990,0.33539483,Asia
+Myanmar,MMR,1995,0.26678112,Asia
+Myanmar,MMR,2000,0.21640357,Asia
+Myanmar,MMR,2005,0.17501657,Asia
+Myanmar,MMR,2010,0.15586938,Asia
+Myanmar,MMR,2015,0.14349256,Asia
+Myanmar,MMR,2020,0.14419279,Asia
+Myanmar,MMR,2024,0.1450493,Asia
+Namibia,NAM,1990,8.810395,Africa
+Namibia,NAM,1995,7.2009835,Africa
+Namibia,NAM,2000,7.453178,Africa
+Namibia,NAM,2005,5.458557,Africa
+Namibia,NAM,2010,4.9211044,Africa
+Namibia,NAM,2015,4.279914,Africa
+Namibia,NAM,2020,4.0088143,Africa
+Namibia,NAM,2024,3.8293724,Africa
+Nauru,NRU,1990,29.255873,Oceania
+Nauru,NRU,1995,25.627151,Oceania
+Nauru,NRU,2000,23.544453,Oceania
+Nauru,NRU,2005,22.420141,Oceania
+Nauru,NRU,2010,9.021209,Oceania
+Nauru,NRU,2015,16.733614,Oceania
+Nauru,NRU,2020,18.904062,Oceania
+Nauru,NRU,2024,21.32753,Oceania
+Nepal,NPL,1990,2.2022197,Asia
+Nepal,NPL,1995,3.1027708,Asia
+Nepal,NPL,2000,2.924652,Asia
+Nepal,NPL,2005,2.5873928,Asia
+Nepal,NPL,2010,2.1281912,Asia
+Nepal,NPL,2015,1.8310732,Asia
+Nepal,NPL,2020,1.6831952,Asia
+Nepal,NPL,2024,1.5875287,Asia
+Netherlands,NLD,1990,7.9456835,Europe
+Netherlands,NLD,1995,8.97763,Europe
+Netherlands,NLD,2000,9.867748,Europe
+Netherlands,NLD,2005,10.540888,Europe
+Netherlands,NLD,2010,11.034661,Europe
+Netherlands,NLD,2015,11.831459,Europe
+Netherlands,NLD,2020,13.752667,Europe
+Netherlands,NLD,2024,16.21899,Europe
+New Caledonia,NCL,1990,21.349798,Oceania
+New Caledonia,NCL,1995,21.78971,Oceania
+New Caledonia,NCL,2000,22.255241,Oceania
+New Caledonia,NCL,2005,22.671566,Oceania
+New Caledonia,NCL,2010,23.380049,Oceania
+New Caledonia,NCL,2015,24.325136,Oceania
+New Caledonia,NCL,2020,25.737923,Oceania
+New Caledonia,NCL,2024,26.222752,Oceania
+New Zealand,NZL,1990,15.495209,Oceania
+New Zealand,NZL,1995,16.190575,Oceania
+New Zealand,NZL,2000,17.782316,Oceania
+New Zealand,NZL,2005,20.677523,Oceania
+New Zealand,NZL,2010,22.01087,Oceania
+New Zealand,NZL,2015,24.538229,Oceania
+New Zealand,NZL,2020,26.507452,Oceania
+New Zealand,NZL,2024,28.155058,Oceania
+Nicaragua,NIC,1990,0.995085,North America
+Nicaragua,NIC,1995,0.5733232,North America
+Nicaragua,NIC,2000,0.6050412,North America
+Nicaragua,NIC,2005,0.6536562,North America
+Nicaragua,NIC,2010,0.65089893,North America
+Nicaragua,NIC,2015,0.6547125,North America
+Nicaragua,NIC,2020,0.64227396,North America
+Nicaragua,NIC,2024,0.6326795,North America
+Niger,NER,1990,1.393473,Africa
+Niger,NER,1995,1.5028932,Africa
+Niger,NER,2000,1.062241,Africa
+Niger,NER,2005,0.9051124,Africa
+Niger,NER,2010,0.7642955,Africa
+Niger,NER,2015,1.2688284,Africa
+Niger,NER,2020,1.4675001,Africa
+Niger,NER,2024,1.6618421,Africa
+Nigeria,NGA,1990,0.47015718,Africa
+Nigeria,NGA,1995,0.41779587,Africa
+Nigeria,NGA,2000,0.38603607,Africa
+Nigeria,NGA,2005,0.6686887,Africa
+Nigeria,NGA,2010,0.5943812,Africa
+Nigeria,NGA,2015,0.62888926,Africa
+Nigeria,NGA,2020,0.61149126,Africa
+Nigeria,NGA,2024,0.6030962,Africa
+Niue,NIU,1990,18.56625,Oceania
+Niue,NIU,1995,20.842379,Oceania
+Niue,NIU,2000,24.328285,Oceania
+Niue,NIU,2005,28.571428,Oceania
+Niue,NIU,2010,33.31448,Oceania
+Niue,NIU,2015,33.052277,Oceania
+Niue,NIU,2020,32.684826,Oceania
+Niue,NIU,2024,32.325455,Oceania
+North America,OWID_NAM,1990,7.1286716,
+North America,OWID_NAM,1995,7.8386683,
+North America,OWID_NAM,2000,8.797244,
+North America,OWID_NAM,2005,9.409773,
+North America,OWID_NAM,2010,9.949595,
+North America,OWID_NAM,2015,10.382748,
+North America,OWID_NAM,2020,10.509894,
+North America,OWID_NAM,2024,10.787001,
+North Korea,PRK,1990,0.16153267,Asia
+North Korea,PRK,1995,0.1550246,Asia
+North Korea,PRK,2000,0.1528908,Asia
+North Korea,PRK,2005,0.164356,Asia
+North Korea,PRK,2010,0.17612977,Asia
+North Korea,PRK,2015,0.1894715,Asia
+North Korea,PRK,2020,0.18957916,Asia
+North Korea,PRK,2024,0.1903443,Asia
+North Macedonia,MKD,1990,4.6102877,Europe
+North Macedonia,MKD,1995,5.4711604,Europe
+North Macedonia,MKD,2000,6.1083884,Europe
+North Macedonia,MKD,2005,6.109033,Europe
+North Macedonia,MKD,2010,6.3222365,Europe
+North Macedonia,MKD,2015,6.601305,Europe
+North Macedonia,MKD,2020,7.0144205,Europe
+North Macedonia,MKD,2024,8.277634,Europe
+Northern Africa (UN),,1990,1.6589056,
+Northern Africa (UN),,1995,1.3014709,
+Northern Africa (UN),,2000,1.0793678,
+Northern Africa (UN),,2005,0.91201437,
+Northern Africa (UN),,2010,0.9316426,
+Northern Africa (UN),,2015,0.98189574,
+Northern Africa (UN),,2020,1.2588637,
+Northern Africa (UN),,2024,1.7910616,
+Northern Africa and Western Asia (UN),,1990,5.794146,
+Northern Africa and Western Asia (UN),,1995,5.6828036,
+Northern Africa and Western Asia (UN),,2000,5.5271063,
+Northern Africa and Western Asia (UN),,2005,5.7403765,
+Northern Africa and Western Asia (UN),,2010,7.179961,
+Northern Africa and Western Asia (UN),,2015,8.859803,
+Northern Africa and Western Asia (UN),,2020,9.006785,
+Northern Africa and Western Asia (UN),,2024,9.301353,
+Northern America (UN),UN_NAM,1990,9.792034,
+Northern America (UN),UN_NAM,1995,11.217618,
+Northern America (UN),UN_NAM,2000,12.914559,
+Northern America (UN),UN_NAM,2005,13.908326,
+Northern America (UN),UN_NAM,2010,14.768363,
+Northern America (UN),UN_NAM,2015,15.465731,
+Northern America (UN),UN_NAM,2020,15.574585,
+Northern America (UN),UN_NAM,2024,15.885973,
+Northern Europe (UN),,1990,7.215539,
+Northern Europe (UN),,1995,7.749596,
+Northern Europe (UN),,2000,8.422531,
+Northern Europe (UN),,2005,10.012098,
+Northern Europe (UN),,2010,11.967616,
+Northern Europe (UN),,2015,13.540609,
+Northern Europe (UN),,2020,15.309217,
+Northern Europe (UN),,2024,17.01756,
+Northern Mariana Islands,MNP,1990,61.35619,Oceania
+Northern Mariana Islands,MNP,1995,67.20359,Oceania
+Northern Mariana Islands,MNP,2000,58.695652,Oceania
+Northern Mariana Islands,MNP,2005,60.207844,Oceania
+Northern Mariana Islands,MNP,2010,44.68026,Oceania
+Northern Mariana Islands,MNP,2015,42.02353,Oceania
+Northern Mariana Islands,MNP,2020,45.95817,Oceania
+Northern Mariana Islands,MNP,2024,49.686073,Oceania
+Norway,NOR,1990,4.540604,Europe
+Norway,NOR,1995,5.3521996,Europe
+Norway,NOR,2000,6.511883,Europe
+Norway,NOR,2005,7.8116875,Europe
+Norway,NOR,2010,10.729876,Europe
+Norway,NOR,2015,14.381656,Europe
+Norway,NOR,2020,15.842993,Europe
+Norway,NOR,2024,18.154308,Europe
+Oceania,OWID_OCE,1990,17.797016,
+Oceania,OWID_OCE,1995,17.540567,
+Oceania,OWID_OCE,2000,17.135508,
+Oceania,OWID_OCE,2005,17.793623,
+Oceania,OWID_OCE,2010,19.152315,
+Oceania,OWID_OCE,2015,20.11112,
+Oceania,OWID_OCE,2020,21.011877,
+Oceania,OWID_OCE,2024,21.482838,
+Oman,OMN,1990,29.863817,Asia
+Oman,OMN,1995,25.401175,Asia
+Oman,OMN,2000,24.133583,Asia
+Oman,OMN,2005,24.734348,Asia
+Oman,OMN,2010,29.135185,Asia
+Oman,OMN,2015,43.680237,Asia
+Oman,OMN,2020,39.052364,Asia
+Oman,OMN,2024,43.232975,Asia
+Pakistan,PAK,1990,5.344732,Asia
+Pakistan,PAK,1995,2.7264426,Asia
+Pakistan,PAK,2000,2.7001133,Asia
+Pakistan,PAK,2005,1.8093473,Asia
+Pakistan,PAK,2010,1.9793715,Asia
+Pakistan,PAK,2015,1.6137446,Asia
+Pakistan,PAK,2020,1.394279,Asia
+Pakistan,PAK,2024,1.661946,Asia
+Palau,PLW,1990,18.35638,Oceania
+Palau,PLW,1995,27.618494,Oceania
+Palau,PLW,2000,32.902283,Oceania
+Palau,PLW,2005,30.490944,Oceania
+Palau,PLW,2010,29.843445,Oceania
+Palau,PLW,2015,27.78278,Oceania
+Palau,PLW,2020,28.597122,Oceania
+Palau,PLW,2024,29.454649,Oceania
+Palestine,PSE,1990,13.479335,Asia
+Palestine,PSE,1995,10.6869545,Asia
+Palestine,PSE,2000,8.731602,Asia
+Palestine,PSE,2005,7.71687,Asia
+Palestine,PSE,2010,6.81717,Asia
+Palestine,PSE,2015,6.0413375,Asia
+Palestine,PSE,2020,5.380682,Asia
+Palestine,PSE,2024,4.958308,Asia
+Panama,PAN,1990,2.555157,North America
+Panama,PAN,1995,2.6003494,North America
+Panama,PAN,2000,2.7707567,North America
+Panama,PAN,2005,3.3039584,North America
+Panama,PAN,2010,4.3485317,North America
+Panama,PAN,2015,4.664353,North America
+Panama,PAN,2020,7.2943387,North America
+Panama,PAN,2024,10.580021,North America
+Papua New Guinea,PNG,1990,0.8651396,Oceania
+Papua New Guinea,PNG,1995,0.7218775,Oceania
+Papua New Guinea,PNG,2000,0.4750532,Oceania
+Papua New Guinea,PNG,2005,0.4585593,Oceania
+Papua New Guinea,PNG,2010,0.3985709,Oceania
+Papua New Guinea,PNG,2015,0.35387316,Oceania
+Papua New Guinea,PNG,2020,0.31651187,Oceania
+Papua New Guinea,PNG,2024,0.29471937,Oceania
+Paraguay,PRY,1990,4.8537235,South America
+Paraguay,PRY,1995,4.0737534,South America
+Paraguay,PRY,2000,3.4623127,South America
+Paraguay,PRY,2005,3.088106,South America
+Paraguay,PRY,2010,2.793653,South America
+Paraguay,PRY,2015,2.5403376,South America
+Paraguay,PRY,2020,2.5677423,South America
+Paraguay,PRY,2024,2.6097994,South America
+Peru,PER,1990,0.2225097,South America
+Peru,PER,1995,0.23340257,South America
+Peru,PER,2000,0.24852312,South America
+Peru,PER,2005,0.27470377,South America
+Peru,PER,2010,0.35295996,South America
+Peru,PER,2015,0.5008996,South America
+Peru,PER,2020,3.6078358,South America
+Peru,PER,2024,5.3691835,South America
+Philippines,PHL,1990,0.2141448,Asia
+Philippines,PHL,1995,0.20692809,Asia
+Philippines,PHL,2000,0.19762665,Asia
+Philippines,PHL,2005,0.19171636,Asia
+Philippines,PHL,2010,0.1849204,Asia
+Philippines,PHL,2015,0.12524286,Asia
+Philippines,PHL,2020,0.0778114,Asia
+Philippines,PHL,2024,0.07528422,Asia
+Poland,POL,1990,2.9625003,Europe
+Poland,POL,1995,2.510195,Europe
+Poland,POL,2000,2.1502051,Europe
+Poland,POL,2005,1.9013739,Europe
+Poland,POL,2010,1.7039192,Europe
+Poland,POL,2015,1.7865922,Europe
+Poland,POL,2020,1.9336637,Europe
+Poland,POL,2024,4.5146265,Europe
+Polynesia,OWID_PYA,1990,10.395945,
+Polynesia,OWID_PYA,1995,10.943332,
+Polynesia,OWID_PYA,2000,11.372733,
+Polynesia,OWID_PYA,2005,11.315638,
+Polynesia,OWID_PYA,2010,10.851408,
+Polynesia,OWID_PYA,2015,10.254047,
+Polynesia,OWID_PYA,2020,10.191179,
+Polynesia,OWID_PYA,2024,10.191028,
+Portugal,PRT,1990,4.36239,Europe
+Portugal,PRT,1995,5.311356,Europe
+Portugal,PRT,2000,6.335302,Europe
+Portugal,PRT,2005,7.342516,Europe
+Portugal,PRT,2010,7.2109795,Europe
+Portugal,PRT,2015,8.339361,Europe
+Portugal,PRT,2020,9.661648,Europe
+Portugal,PRT,2024,10.812014,Europe
+Puerto Rico,PRI,1990,9.090783,North America
+Puerto Rico,PRI,1995,9.152782,North America
+Puerto Rico,PRI,2000,9.318911,North America
+Puerto Rico,PRI,2005,9.295286,North America
+Puerto Rico,PRI,2010,8.209488,North America
+Puerto Rico,PRI,2015,7.964482,North America
+Puerto Rico,PRI,2020,7.544161,North America
+Puerto Rico,PRI,2024,6.8879995,North America
+Qatar,QAT,1990,48.959618,Asia
+Qatar,QAT,1995,59.8184,Asia
+Qatar,QAT,2000,68.09651,Asia
+Qatar,QAT,2005,77.90087,Asia
+Qatar,QAT,2010,82.43483,Asia
+Qatar,QAT,2015,86.1028,Asia
+Qatar,QAT,2020,77.834755,Asia
+Qatar,QAT,2024,76.66259,Asia
+Reunion,REU,1990,8.766849,Africa
+Reunion,REU,1995,10.860505,Africa
+Reunion,REU,2000,13.192599,Africa
+Reunion,REU,2005,14.380473,Africa
+Reunion,REU,2010,14.568766,Africa
+Reunion,REU,2015,14.706038,Africa
+Reunion,REU,2020,15.296258,Africa
+Reunion,REU,2024,15.4262905,Africa
+Romania,ROU,1990,0.59175146,Europe
+Romania,ROU,1995,0.5956909,Europe
+Romania,ROU,2000,0.6087381,Europe
+Romania,ROU,2005,0.6572736,Europe
+Romania,ROU,2010,0.7248573,Europe
+Romania,ROU,2015,1.0696986,Europe
+Romania,ROU,2020,1.7467296,Europe
+Romania,ROU,2024,3.447678,Europe
+Russia,RUS,1990,7.7359266,Europe
+Russia,RUS,1995,8.044248,Europe
+Russia,RUS,2000,8.111012,Europe
+Russia,RUS,2005,8.06899,Europe
+Russia,RUS,2010,7.7811294,Europe
+Russia,RUS,2015,6.2613573,Europe
+Russia,RUS,2020,4.9856844,Europe
+Russia,RUS,2024,5.2518654,Europe
+Rwanda,RWA,1990,2.1697266,Africa
+Rwanda,RWA,1995,3.8020887,Africa
+Rwanda,RWA,2000,4.2254553,Africa
+Rwanda,RWA,2005,4.673761,Africa
+Rwanda,RWA,2010,4.1376185,Africa
+Rwanda,RWA,2015,4.4213576,Africa
+Rwanda,RWA,2020,3.9332116,Africa
+Rwanda,RWA,2024,3.6005583,Africa
+Saint Helena,SHN,1990,2.6900408,Africa
+Saint Helena,SHN,1995,1.8431002,Africa
+Saint Helena,SHN,2000,1.7952127,Africa
+Saint Helena,SHN,2005,2.940646,Africa
+Saint Helena,SHN,2010,4.6537814,Africa
+Saint Helena,SHN,2015,6.8483195,Africa
+Saint Helena,SHN,2020,8.047882,Africa
+Saint Helena,SHN,2024,9.394691,Africa
+Saint Kitts and Nevis,KNA,1990,7.939256,North America
+Saint Kitts and Nevis,KNA,1995,10.036385,North America
+Saint Kitts and Nevis,KNA,2000,12.975159,North America
+Saint Kitts and Nevis,KNA,2005,14.389388,North America
+Saint Kitts and Nevis,KNA,2010,15.465568,North America
+Saint Kitts and Nevis,KNA,2015,15.8069105,North America
+Saint Kitts and Nevis,KNA,2020,16.481758,North America
+Saint Kitts and Nevis,KNA,2024,16.988665,North America
+Saint Lucia,LCA,1990,3.8481905,North America
+Saint Lucia,LCA,1995,4.8276744,North America
+Saint Lucia,LCA,2000,6.2232056,North America
+Saint Lucia,LCA,2005,5.9468117,North America
+Saint Lucia,LCA,2010,5.2953086,North America
+Saint Lucia,LCA,2015,4.958692,North America
+Saint Lucia,LCA,2020,4.6777,North America
+Saint Lucia,LCA,2024,4.4947257,North America
+Saint Pierre and Miquelon,SPM,1990,17.298914,North America
+Saint Pierre and Miquelon,SPM,1995,20.509634,North America
+Saint Pierre and Miquelon,SPM,2000,23.1686,North America
+Saint Pierre and Miquelon,SPM,2005,18.760223,North America
+Saint Pierre and Miquelon,SPM,2010,16.88247,North America
+Saint Pierre and Miquelon,SPM,2015,16.579788,North America
+Saint Pierre and Miquelon,SPM,2020,17.127167,North America
+Saint Pierre and Miquelon,SPM,2024,17.910448,North America
+Saint Vincent and the Grenadines,VCT,1990,3.550603,North America
+Saint Vincent and the Grenadines,VCT,1995,3.6577706,North America
+Saint Vincent and the Grenadines,VCT,2000,3.7932098,North America
+Saint Vincent and the Grenadines,VCT,2005,3.9448643,North America
+Saint Vincent and the Grenadines,VCT,2010,4.155185,North America
+Saint Vincent and the Grenadines,VCT,2015,4.3352656,North America
+Saint Vincent and the Grenadines,VCT,2020,4.576628,North America
+Saint Vincent and the Grenadines,VCT,2024,4.7904906,North America
+Samoa,WSM,1990,1.985897,Oceania
+Samoa,WSM,1995,2.6888773,Oceania
+Samoa,WSM,2000,3.3013182,Oceania
+Samoa,WSM,2005,3.073089,Oceania
+Samoa,WSM,2010,2.6535697,Oceania
+Samoa,WSM,2015,2.1087115,Oceania
+Samoa,WSM,2020,1.8971993,Oceania
+Samoa,WSM,2024,1.7626904,Oceania
+San Marino,SMR,1990,14.100106,Europe
+San Marino,SMR,1995,14.544082,Europe
+San Marino,SMR,2000,15.093846,Europe
+San Marino,SMR,2005,14.762705,Europe
+San Marino,SMR,2010,15.935214,Europe
+San Marino,SMR,2015,15.324032,Europe
+San Marino,SMR,2020,15.942363,Europe
+San Marino,SMR,2024,17.38483,Europe
+Sao Tome and Principe,STP,1990,4.5389495,Africa
+Sao Tome and Principe,STP,1995,3.6591423,Africa
+Sao Tome and Principe,STP,2000,3.0308712,Africa
+Sao Tome and Principe,STP,2005,2.1238687,Africa
+Sao Tome and Principe,STP,2010,1.4851322,Africa
+Sao Tome and Principe,STP,2015,1.1952609,Africa
+Sao Tome and Principe,STP,2020,0.9837423,Africa
+Sao Tome and Principe,STP,2024,0.83002174,Africa
+Saudi Arabia,SAU,1990,42.148277,Asia
+Saudi Arabia,SAU,1995,36.52193,Asia
+Saudi Arabia,SAU,2000,32.262775,Asia
+Saudi Arabia,SAU,2005,32.126213,Asia
+Saudi Arabia,SAU,2010,35.683567,Asia
+Saudi Arabia,SAU,2015,44.209007,Asia
+Saudi Arabia,SAU,2020,42.17731,Asia
+Saudi Arabia,SAU,2024,40.290726,Asia
+Senegal,SEN,1990,3.502483,Africa
+Senegal,SEN,1995,3.2510252,Africa
+Senegal,SEN,2000,2.326394,Africa
+Senegal,SEN,2005,2.1209433,Africa
+Senegal,SEN,2010,2.02678,Africa
+Senegal,SEN,2015,1.8261492,Africa
+Senegal,SEN,2020,1.637533,Africa
+Senegal,SEN,2024,1.523442,Africa
+Serbia,SRB,1990,13.519605,Europe
+Serbia,SRB,1995,19.732685,Europe
+Serbia,SRB,2000,18.453852,Europe
+Serbia,SRB,2005,14.307122,Europe
+Serbia,SRB,2010,12.18308,Europe
+Serbia,SRB,2015,11.112817,Europe
+Serbia,SRB,2020,10.612492,Europe
+Serbia,SRB,2024,10.577897,Europe
+Seychelles,SYC,1990,5.029534,Africa
+Seychelles,SYC,1995,6.5893555,Africa
+Seychelles,SYC,2000,7.8902516,Africa
+Seychelles,SYC,2005,10.078865,Africa
+Seychelles,SYC,2010,12.024723,Africa
+Seychelles,SYC,2015,11.928565,Africa
+Seychelles,SYC,2020,10.848692,Africa
+Seychelles,SYC,2024,10.168075,Africa
+Sierra Leone,SLE,1990,5.293236,Africa
+Sierra Leone,SLE,1995,2.357305,Africa
+Sierra Leone,SLE,2000,2.214797,Africa
+Sierra Leone,SLE,2005,2.6578455,Africa
+Sierra Leone,SLE,2010,1.2738011,Africa
+Sierra Leone,SLE,2015,0.83593184,Africa
+Sierra Leone,SLE,2020,0.67924935,Africa
+Sierra Leone,SLE,2024,0.5785336,Africa
+Singapore,SGP,1990,23.995893,Asia
+Singapore,SGP,1995,28.118895,Asia
+Singapore,SGP,2000,32.697716,Asia
+Singapore,SGP,2005,35.014046,Asia
+Singapore,SGP,2010,42.551586,Asia
+Singapore,SGP,2015,45.88568,Asia
+Singapore,SGP,2020,46.06829,Asia
+Singapore,SGP,2024,48.72216,Asia
+Sint Maarten (Dutch part),SXM,1990,85.03261,North America
+Sint Maarten (Dutch part),SXM,1995,75.100716,North America
+Sint Maarten (Dutch part),SXM,2000,77.53875,North America
+Sint Maarten (Dutch part),SXM,2005,40.86159,North America
+Sint Maarten (Dutch part),SXM,2010,77.53743,North America
+Sint Maarten (Dutch part),SXM,2015,72.843,North America
+Sint Maarten (Dutch part),SXM,2020,70.339935,North America
+Sint Maarten (Dutch part),SXM,2024,69.54556,North America
+Slovakia,SVK,1990,0.7841699,Europe
+Slovakia,SVK,1995,1.2947208,Europe
+Slovakia,SVK,2000,2.1631231,Europe
+Slovakia,SVK,2005,2.4269743,Europe
+Slovakia,SVK,2010,2.7137063,Europe
+Slovakia,SVK,2015,3.2770276,Europe
+Slovakia,SVK,2020,3.6143012,Europe
+Slovakia,SVK,2024,5.883514,Europe
+Slovenia,SVN,1990,8.912731,Europe
+Slovenia,SVN,1995,8.773172,Europe
+Slovenia,SVN,2000,10.796571,Europe
+Slovenia,SVN,2005,10.877685,Europe
+Slovenia,SVN,2010,12.412428,Europe
+Slovenia,SVN,2015,11.535054,Europe
+Slovenia,SVN,2020,13.221151,Europe
+Slovenia,SVN,2024,14.873386,Europe
+Small Island Developing States (SIDS),,1990,4.5203533,
+Small Island Developing States (SIDS),,1995,4.9481325,
+Small Island Developing States (SIDS),,2000,5.425345,
+Small Island Developing States (SIDS),,2005,5.5224543,
+Small Island Developing States (SIDS),,2010,6.2546334,
+Small Island Developing States (SIDS),,2015,6.751338,
+Small Island Developing States (SIDS),,2020,6.753945,
+Small Island Developing States (SIDS),,2024,7.2256045,
+Solomon Islands,SLB,1990,1.2750615,Oceania
+Solomon Islands,SLB,1995,1.0859479,Oceania
+Solomon Islands,SLB,2000,0.90380937,Oceania
+Solomon Islands,SLB,2005,0.67711353,Oceania
+Solomon Islands,SLB,2010,0.51785475,Oceania
+Solomon Islands,SLB,2015,0.40427577,Oceania
+Solomon Islands,SLB,2020,0.33848312,Oceania
+Solomon Islands,SLB,2024,0.30139235,Oceania
+Somalia,SOM,1990,6.752884,Africa
+Somalia,SOM,1995,0.26804367,Africa
+Somalia,SOM,2000,0.22737473,Africa
+Somalia,SOM,2005,0.19511044,Africa
+Somalia,SOM,2010,0.39232555,Africa
+Somalia,SOM,2015,0.2968792,Africa
+Somalia,SOM,2020,0.35186672,Africa
+Somalia,SOM,2024,0.4101814,Africa
+South Africa,ZAF,1990,3.1553981,Africa
+South Africa,ZAF,1995,2.2599053,Africa
+South Africa,ZAF,2000,2.115583,Africa
+South Africa,ZAF,2005,3.058909,Africa
+South Africa,ZAF,2010,4.3452234,Africa
+South Africa,ZAF,2015,5.5754,Africa
+South Africa,ZAF,2020,4.357616,Africa
+South Africa,ZAF,2024,4.110632,Africa
+South America,OWID_SAM,1990,1.4610897,
+South America,OWID_SAM,1995,1.3168166,
+South America,OWID_SAM,2000,1.2097287,
+South America,OWID_SAM,2005,1.1932029,
+South America,OWID_SAM,2010,1.3305426,
+South America,OWID_SAM,2015,1.385085,
+South America,OWID_SAM,2020,2.4032211,
+South America,OWID_SAM,2024,2.8874183,
+South Korea,KOR,1990,0.04196552,Asia
+South Korea,KOR,1995,0.11620196,Asia
+South Korea,KOR,2000,0.30882257,Asia
+South Korea,KOR,2005,0.48429683,Asia
+South Korea,KOR,2010,1.1607664,Asia
+South Korea,KOR,2015,2.573698,Asia
+South Korea,KOR,2020,3.3232539,Asia
+South Korea,KOR,2024,3.5026903,Asia
+South Sudan,SSD,1990,13.769851,Africa
+South Sudan,SSD,1995,12.483458,Africa
+South Sudan,SSD,2000,10.814591,Africa
+South Sudan,SSD,2005,8.594897,Africa
+South Sudan,SSD,2010,2.3674648,Africa
+South Sudan,SSD,2015,7.5994363,Africa
+South Sudan,SSD,2020,8.246528,Africa
+South Sudan,SSD,2024,7.6527653,Africa
+South-Eastern Asia (UN),,1990,0.59933954,
+South-Eastern Asia (UN),,1995,0.6714107,
+South-Eastern Asia (UN),,2000,0.8743004,
+South-Eastern Asia (UN),,2005,1.0706589,
+South-Eastern Asia (UN),,2010,1.4189817,
+South-Eastern Asia (UN),,2015,1.4993638,
+South-Eastern Asia (UN),,2020,1.5173945,
+South-Eastern Asia (UN),,2024,1.5866506,
+Southern Africa (UN),,1990,3.2906234,
+Southern Africa (UN),,1995,2.3821054,
+Southern Africa (UN),,2000,2.324786,
+Southern Africa (UN),,2005,3.0988617,
+Southern Africa (UN),,2010,4.215473,
+Southern Africa (UN),,2015,5.280893,
+Southern Africa (UN),,2020,4.2029853,
+Southern Africa (UN),,2024,3.981263,
+Southern Asia (UN),,1990,1.5964893,
+Southern Asia (UN),,1995,1.1386266,
+Southern Asia (UN),,2000,1.0097942,
+Southern Asia (UN),,2005,0.8425279,
+Southern Asia (UN),,2010,0.82513136,
+Southern Asia (UN),,2015,0.7433693,
+Southern Asia (UN),,2020,0.70151615,
+Southern Asia (UN),,2024,0.7974363,
+Southern Europe (UN),,1990,3.8023129,
+Southern Europe (UN),,1995,5.0112605,
+Southern Europe (UN),,2000,5.8923817,
+Southern Europe (UN),,2005,7.9277687,
+Southern Europe (UN),,2010,9.864194,
+Southern Europe (UN),,2015,10.118648,
+Southern Europe (UN),,2020,11.602308,
+Southern Europe (UN),,2024,13.302118,
+Spain,ESP,1990,2.0815873,Europe
+Spain,ESP,1995,3.1412983,Europe
+Spain,ESP,2000,4.9339275,Europe
+Spain,ESP,2005,9.946678,Europe
+Spain,ESP,2010,13.409757,Europe
+Spain,ESP,2015,12.622926,Europe
+Spain,ESP,2020,14.987849,Europe
+Spain,ESP,2024,18.514776,Europe
+Sri Lanka,LKA,1990,0.2541575,Asia
+Sri Lanka,LKA,1995,0.23252586,Asia
+Sri Lanka,LKA,2000,0.20801269,Asia
+Sri Lanka,LKA,2005,0.19551334,Asia
+Sri Lanka,LKA,2010,0.18659338,Asia
+Sri Lanka,LKA,2015,0.1827246,Asia
+Sri Lanka,LKA,2020,0.17841657,Asia
+Sri Lanka,LKA,2024,0.17615463,Asia
+Sub-Saharan Africa (UN),,1990,2.7569234,
+Sub-Saharan Africa (UN),,1995,2.5432017,
+Sub-Saharan Africa (UN),,2000,2.0637906,
+Sub-Saharan Africa (UN),,2005,1.9791932,
+Sub-Saharan Africa (UN),,2010,1.8329773,
+Sub-Saharan Africa (UN),,2015,2.065954,
+Sub-Saharan Africa (UN),,2020,1.960024,
+Sub-Saharan Africa (UN),,2024,1.9554477,
+Sudan,SDN,1990,6.3705797,Africa
+Sudan,SDN,1995,4.2695765,Africa
+Sudan,SDN,2000,2.8942494,Africa
+Sudan,SDN,2005,1.7478448,Africa
+Sudan,SDN,2010,1.7470549,Africa
+Sudan,SDN,2015,1.5503606,Africa
+Sudan,SDN,2020,2.9475737,Africa
+Sudan,SDN,2024,4.7515607,Africa
+Suriname,SUR,1990,4.383832,South America
+Suriname,SUR,1995,5.195458,South America
+Suriname,SUR,2000,5.770776,South America
+Suriname,SUR,2005,6.482025,South America
+Suriname,SUR,2010,7.2215567,South America
+Suriname,SUR,2015,7.41489,South America
+Suriname,SUR,2020,7.806577,South America
+Suriname,SUR,2024,8.180874,South America
+Sweden,SWE,1990,9.163718,Europe
+Sweden,SWE,1995,10.704392,Europe
+Sweden,SWE,2000,11.521014,Europe
+Sweden,SWE,2005,12.480616,Europe
+Sweden,SWE,2010,14.630412,Europe
+Sweden,SWE,2015,16.717161,Europe
+Sweden,SWE,2020,19.644232,Europe
+Sweden,SWE,2024,21.421309,Europe
+Switzerland,CHE,1990,18.654667,Europe
+Switzerland,CHE,1995,19.367807,Europe
+Switzerland,CHE,2000,20.66415,Europe
+Switzerland,CHE,2005,23.417027,Europe
+Switzerland,CHE,2010,26.246075,Europe
+Switzerland,CHE,2015,28.799276,Europe
+Switzerland,CHE,2020,30.208487,Europe
+Switzerland,CHE,2024,31.089956,Europe
+Syria,SYR,1990,5.677146,Asia
+Syria,SYR,1995,5.6825705,Asia
+Syria,SYR,2000,5.018161,Asia
+Syria,SYR,2005,4.690091,Asia
+Syria,SYR,2010,7.933287,Asia
+Syria,SYR,2015,4.302355,Asia
+Syria,SYR,2020,4.127005,Asia
+Syria,SYR,2024,3.6317055,Asia
+Taiwan,TWN,1990,0.322303,Asia
+Taiwan,TWN,1995,1.1455202,Asia
+Taiwan,TWN,2000,2.016606,Asia
+Taiwan,TWN,2005,2.4024913,Asia
+Taiwan,TWN,2010,2.530334,Asia
+Taiwan,TWN,2015,3.6819017,Asia
+Taiwan,TWN,2020,4.459158,Asia
+Taiwan,TWN,2024,4.8954377,Asia
+Tajikistan,TJK,1990,7.944405,Asia
+Tajikistan,TJK,1995,5.855965,Asia
+Tajikistan,TJK,2000,4.765499,Asia
+Tajikistan,TJK,2005,4.0502143,Asia
+Tajikistan,TJK,2010,3.6565976,Asia
+Tajikistan,TJK,2015,3.1826248,Asia
+Tajikistan,TJK,2020,2.8312876,Asia
+Tajikistan,TJK,2024,2.6133406,Asia
+Tanzania,TZA,1990,2.1984696,Africa
+Tanzania,TZA,1995,3.6402755,Africa
+Tanzania,TZA,2000,2.7717342,Africa
+Tanzania,TZA,2005,1.968127,Africa
+Tanzania,TZA,2010,0.6922642,Africa
+Tanzania,TZA,2015,0.73925394,Africa
+Tanzania,TZA,2020,0.6987001,Africa
+Tanzania,TZA,2024,0.6744019,Africa
+Thailand,THA,1990,0.5260171,Asia
+Thailand,THA,1995,0.45951965,Asia
+Thailand,THA,2000,1.2240291,Asia
+Thailand,THA,2005,2.5839317,Asia
+Thailand,THA,2010,3.8502119,Asia
+Thailand,THA,2015,4.04482,Asia
+Thailand,THA,2020,4.208465,Asia
+Thailand,THA,2024,4.4362874,Asia
+Togo,TGO,1990,2.1217573,Africa
+Togo,TGO,1995,2.3030348,Africa
+Togo,TGO,2000,2.6841831,Africa
+Togo,TGO,2005,3.49413,Africa
+Togo,TGO,2010,3.795924,Africa
+Togo,TGO,2015,3.6196914,Africa
+Togo,TGO,2020,3.2288933,Africa
+Togo,TGO,2024,2.963605,Africa
+Tokelau,TKL,1990,20.373514,Oceania
+Tokelau,TKL,1995,28.571428,Oceania
+Tokelau,TKL,2000,38.590786,Oceania
+Tokelau,TKL,2005,61.496014,Oceania
+Tokelau,TKL,2010,71.16719,Oceania
+Tokelau,TKL,2015,69.78799,Oceania
+Tokelau,TKL,2020,58.176693,Oceania
+Tokelau,TKL,2024,51.157223,Oceania
+Tonga,TON,1990,2.9197593,Oceania
+Tonga,TON,1995,3.26665,Oceania
+Tonga,TON,2000,3.5879505,Oceania
+Tonga,TON,2005,4.07018,Oceania
+Tonga,TON,2010,4.289572,Oceania
+Tonga,TON,2015,3.7268486,Oceania
+Tonga,TON,2020,3.540074,Oceania
+Tonga,TON,2024,3.437485,Oceania
+Trinidad and Tobago,TTO,1990,4.046133,North America
+Trinidad and Tobago,TTO,1995,3.5511968,North America
+Trinidad and Tobago,TTO,2000,3.1636477,North America
+Trinidad and Tobago,TTO,2005,3.3144138,North America
+Trinidad and Tobago,TTO,2010,3.4778683,North America
+Trinidad and Tobago,TTO,2015,3.4999595,North America
+Trinidad and Tobago,TTO,2020,5.3239517,North America
+Trinidad and Tobago,TTO,2024,7.5261545,North America
+Tunisia,TUN,1990,0.45629117,Africa
+Tunisia,TUN,1995,0.41333842,Africa
+Tunisia,TUN,2000,0.37602913,Africa
+Tunisia,TUN,2005,0.34167126,Africa
+Tunisia,TUN,2010,0.4010039,Africa
+Tunisia,TUN,2015,0.49579626,Africa
+Tunisia,TUN,2020,0.50229424,Africa
+Tunisia,TUN,2024,0.5147873,Africa
+Turkey,TUR,1990,2.0698063,Asia
+Turkey,TUR,1995,2.0006685,Asia
+Turkey,TUR,2000,1.9549105,Asia
+Turkey,TUR,2005,1.9402807,Asia
+Turkey,TUR,2010,1.9365993,Asia
+Turkey,TUR,2015,4.687894,Asia
+Turkey,TUR,2020,7.643357,Asia
+Turkey,TUR,2024,8.097854,Asia
+Turkmenistan,TKM,1990,8.150377,Asia
+Turkmenistan,TKM,1995,6.5271235,Asia
+Turkmenistan,TKM,2000,4.7803283,Asia
+Turkmenistan,TKM,2005,4.2169867,Asia
+Turkmenistan,TKM,2010,3.5579858,Asia
+Turkmenistan,TKM,2015,3.159319,Asia
+Turkmenistan,TKM,2020,2.8046398,Asia
+Turkmenistan,TKM,2024,2.5854032,Asia
+Turks and Caicos Islands,TCA,1990,43.309376,North America
+Turks and Caicos Islands,TCA,1995,46.76455,North America
+Turks and Caicos Islands,TCA,2000,48.13134,North America
+Turks and Caicos Islands,TCA,2005,54.67317,North America
+Turks and Caicos Islands,TCA,2010,57.890312,North America
+Turks and Caicos Islands,TCA,2015,62.076218,North America
+Turks and Caicos Islands,TCA,2020,58.00928,North America
+Turks and Caicos Islands,TCA,2024,61.147522,North America
+Tuvalu,TUV,1990,3.6144578,Oceania
+Tuvalu,TUV,1995,2.8340516,Oceania
+Tuvalu,TUV,2000,2.2841575,Oceania
+Tuvalu,TUV,2005,2.1026156,Oceania
+Tuvalu,TUV,2010,2.072734,Oceania
+Tuvalu,TUV,2015,2.097966,Oceania
+Tuvalu,TUV,2020,2.298298,Oceania
+Tuvalu,TUV,2024,2.5502799,Oceania
+Uganda,UGA,1990,3.1905138,Africa
+Uganda,UGA,1995,3.2237575,Africa
+Uganda,UGA,2000,2.601217,Africa
+Uganda,UGA,2005,2.280118,Africa
+Uganda,UGA,2010,1.5901273,Africa
+Uganda,UGA,2015,2.19331,Africa
+Uganda,UGA,2020,3.9949434,Africa
+Uganda,UGA,2024,4.114276,Africa
+Ukraine,UKR,1990,13.24184,Europe
+Ukraine,UKR,1995,11.946721,Europe
+Ukraine,UKR,2000,11.153066,Europe
+Ukraine,UKR,2005,10.613099,Europe
+Ukraine,UKR,2010,10.372754,Europe
+Ukraine,UKR,2015,10.7352915,Europe
+Ukraine,UKR,2020,11.184837,Europe
+Ukraine,UKR,2024,13.375973,Europe
+United Arab Emirates,ARE,1990,68.60627,Asia
+United Arab Emirates,ARE,1995,73.74798,Asia
+United Arab Emirates,ARE,2000,67.94121,Asia
+United Arab Emirates,ARE,2005,69.000534,Asia
+United Arab Emirates,ARE,2010,78.491135,Asia
+United Arab Emirates,ARE,2015,79.069626,Asia
+United Arab Emirates,ARE,2020,76.03304,Asia
+United Arab Emirates,ARE,2024,73.97211,Asia
+United Kingdom,GBR,1990,6.388413,Europe
+United Kingdom,GBR,1995,7.1757874,Europe
+United Kingdom,GBR,2000,8.039478,Europe
+United Kingdom,GBR,2005,9.88511,Europe
+United Kingdom,GBR,2010,12.242079,Europe
+United Kingdom,GBR,2015,13.874485,Europe
+United Kingdom,GBR,2020,15.620756,Europe
+United Kingdom,GBR,2024,17.133047,Europe
+United States,USA,1990,9.182553,North America
+United States,USA,1995,10.635759,North America
+United States,USA,2000,12.365475,North America
+United States,USA,2005,13.372878,North America
+United States,USA,2010,14.128083,North America
+United States,USA,2015,14.700733,North America
+United States,USA,2020,14.869079,North America
+United States,USA,2024,15.162426,North America
+United States Virgin Islands,VIR,1990,50.797592,North America
+United States Virgin Islands,VIR,1995,50.706264,North America
+United States Virgin Islands,VIR,2000,52.138073,North America
+United States Virgin Islands,VIR,2005,52.642975,North America
+United States Virgin Islands,VIR,2010,53.319035,North America
+United States Virgin Islands,VIR,2015,56.58068,North America
+United States Virgin Islands,VIR,2020,64.70749,North America
+United States Virgin Islands,VIR,2024,66.873566,North America
+Upper-middle-income countries,OWID_UMC,1990,1.3375351,
+Upper-middle-income countries,OWID_UMC,1995,1.1559775,
+Upper-middle-income countries,OWID_UMC,2000,1.0716914,
+Upper-middle-income countries,OWID_UMC,2005,1.0819439,
+Upper-middle-income countries,OWID_UMC,2010,1.1963414,
+Upper-middle-income countries,OWID_UMC,2015,1.3409493,
+Upper-middle-income countries,OWID_UMC,2020,1.5514171,
+Upper-middle-income countries,OWID_UMC,2024,1.7259113,
+Uruguay,URY,1990,3.1605432,South America
+Uruguay,URY,1995,2.9292917,South America
+Uruguay,URY,2000,2.7210164,South America
+Uruguay,URY,2005,2.5052567,South America
+Uruguay,URY,2010,2.2992666,South America
+Uruguay,URY,2015,2.339626,South America
+Uruguay,URY,2020,3.1852903,South America
+Uruguay,URY,2024,4.726409,South America
+Uzbekistan,UZB,1990,8.077223,Asia
+Uzbekistan,UZB,1995,6.6000705,Asia
+Uzbekistan,UZB,2000,5.674325,Asia
+Uzbekistan,UZB,2005,5.0458446,Asia
+Uzbekistan,UZB,2010,4.298493,Asia
+Uzbekistan,UZB,2015,3.8077981,Asia
+Uzbekistan,UZB,2020,3.4597573,Asia
+Uzbekistan,UZB,2024,3.1763034,Asia
+Vanuatu,VUT,1990,1.5587959,Oceania
+Vanuatu,VUT,1995,1.4724448,Oceania
+Vanuatu,VUT,2000,1.4096982,Oceania
+Vanuatu,VUT,2005,1.3285253,Oceania
+Vanuatu,VUT,2010,1.2554145,Oceania
+Vanuatu,VUT,2015,1.1972897,Oceania
+Vanuatu,VUT,2020,1.0898153,Oceania
+Vanuatu,VUT,2024,1.0113584,Oceania
+Vatican,VAT,1990,100,Europe
+Vatican,VAT,1995,100,Europe
+Vatican,VAT,2000,100,Europe
+Vatican,VAT,2005,100,Europe
+Vatican,VAT,2010,100,Europe
+Vatican,VAT,2015,100,Europe
+Vatican,VAT,2020,100,Europe
+Vatican,VAT,2024,100,Europe
+Venezuela,VEN,1990,5.1697607,South America
+Venezuela,VEN,1995,4.5958557,South America
+Venezuela,VEN,2000,4.1332006,South America
+Venezuela,VEN,2005,4.0188227,South America
+Venezuela,VEN,2010,4.676161,South America
+Venezuela,VEN,2015,4.5936065,South America
+Venezuela,VEN,2020,4.655426,South America
+Venezuela,VEN,2024,4.4473853,South America
+Vietnam,VNM,1990,0.13519672,Asia
+Vietnam,VNM,1995,0.12265936,Asia
+Vietnam,VNM,2000,0.11174144,Asia
+Vietnam,VNM,2005,0.10112061,Asia
+Vietnam,VNM,2010,0.09651575,Asia
+Vietnam,VNM,2015,0.10922479,Asia
+Vietnam,VNM,2020,0.20456837,Asia
+Vietnam,VNM,2024,0.32322556,Asia
+Wallis and Futuna,WLF,1990,10.400594,Oceania
+Wallis and Futuna,WLF,1995,12.000845,Oceania
+Wallis and Futuna,WLF,2000,13.6296,Oceania
+Wallis and Futuna,WLF,2005,14.996577,Oceania
+Wallis and Futuna,WLF,2010,16.03616,Oceania
+Wallis and Futuna,WLF,2015,16.858553,Oceania
+Wallis and Futuna,WLF,2020,17.561983,Oceania
+Wallis and Futuna,WLF,2024,18.018976,Oceania
+Western Africa (UN),,1990,2.4126897,
+Western Africa (UN),,1995,2.5252352,
+Western Africa (UN),,2000,2.1661692,
+Western Africa (UN),,2005,2.152126,
+Western Africa (UN),,2010,2.0010989,
+Western Africa (UN),,2015,1.9608272,
+Western Africa (UN),,2020,1.8609421,
+Western Africa (UN),,2024,1.8053272,
+Western Asia (UN),,1990,9.794943,
+Western Asia (UN),,1995,9.857643,
+Western Asia (UN),,2000,9.705416,
+Western Asia (UN),,2005,10.189527,
+Western Asia (UN),,2010,12.785166,
+Western Asia (UN),,2015,15.779156,
+Western Asia (UN),,2020,15.910281,
+Western Asia (UN),,2024,15.908046,
+Western Europe (UN),,1990,9.641711,
+Western Europe (UN),,1995,11.172125,
+Western Europe (UN),,2000,11.883732,
+Western Europe (UN),,2005,12.919403,
+Western Europe (UN),,2010,13.751713,
+Western Europe (UN),,2015,14.868627,
+Western Europe (UN),,2020,16.674917,
+Western Europe (UN),,2024,18.383818,
+Western Sahara,ESH,1990,1.4971261,Africa
+Western Sahara,ESH,1995,1.4238486,Africa
+Western Sahara,ESH,2000,1.2094446,Africa
+Western Sahara,ESH,2005,1.1488076,Africa
+Western Sahara,ESH,2010,1.0966133,Africa
+Western Sahara,ESH,2015,1.0651513,Africa
+Western Sahara,ESH,2020,0.98732173,Africa
+Western Sahara,ESH,2024,0.9530809,Africa
+World,OWID_WRL,1990,2.8899925,
+World,OWID_WRL,1995,2.8345203,
+World,OWID_WRL,2000,2.8293188,
+World,OWID_WRL,2005,2.9276276,
+World,OWID_WRL,2010,3.148464,
+World,OWID_WRL,2015,3.3478596,
+World,OWID_WRL,2020,3.4911263,
+World,OWID_WRL,2024,3.7256262,
+Yemen,YEM,1990,0.85587686,Asia
+Yemen,YEM,1995,0.81549895,Asia
+Yemen,YEM,2000,0.7385801,Asia
+Yemen,YEM,2005,0.7541481,Asia
+Yemen,YEM,2010,1.0779316,Asia
+Yemen,YEM,2015,1.2191578,Asia
+Yemen,YEM,2020,1.0713006,Asia
+Yemen,YEM,2024,0.9683745,Asia
+Zambia,ZMB,1990,3.5892234,Africa
+Zambia,ZMB,1995,2.7810676,Africa
+Zambia,ZMB,2000,3.430981,Africa
+Zambia,ZMB,2005,2.1580245,Africa
+Zambia,ZMB,2010,1.073796,Africa
+Zambia,ZMB,2015,0.80557525,Africa
+Zambia,ZMB,2020,0.9861541,Africa
+Zambia,ZMB,2024,1.1691556,Africa
+Zimbabwe,ZWE,1990,6.260268,Africa
+Zimbabwe,ZWE,1995,3.9293098,Africa
+Zimbabwe,ZWE,2000,3.4485965,Africa
+Zimbabwe,ZWE,2005,3.2220786,Africa
+Zimbabwe,ZWE,2010,2.9821103,Africa
+Zimbabwe,ZWE,2015,2.7813156,Africa
+Zimbabwe,ZWE,2020,2.6801314,Africa
+Zimbabwe,ZWE,2024,2.5796463,Africa

@@ -1,0 +1,185 @@
+Entity,Code,Year,DHS is only data source
+Afghanistan,AFG,2023,True
+Albania,ALB,2023,False
+Algeria,DZA,2023,False
+Andorra,AND,2023,False
+Angola,AGO,2023,True
+Antigua and Barbuda,ATG,2023,False
+Argentina,ARG,2023,False
+Armenia,ARM,2023,False
+Australia,AUS,2023,False
+Austria,AUT,2023,False
+Azerbaijan,AZE,2023,False
+Bahamas,BHS,2023,False
+Bahrain,BHR,2023,False
+Bangladesh,BGD,2023,False
+Barbados,BRB,2023,False
+Belarus,BLR,2023,False
+Belgium,BEL,2023,False
+Belize,BLZ,2023,False
+Benin,BEN,2023,False
+Bhutan,BTN,2023,False
+Bolivia,BOL,2023,False
+Bosnia and Herzegovina,BIH,2023,False
+Botswana,BWA,2023,False
+Brazil,BRA,2023,False
+Brunei,BRN,2023,False
+Bulgaria,BGR,2023,False
+Burkina Faso,BFA,2023,False
+Burundi,BDI,2023,True
+Cambodia,KHM,2023,False
+Cameroon,CMR,2023,True
+Canada,CAN,2023,False
+Cape Verde,CPV,2023,False
+Central African Republic,CAF,2023,True
+Chad,TCD,2023,True
+Chile,CHL,2023,False
+China,CHN,2023,False
+Colombia,COL,2023,False
+Comoros,COM,2023,True
+Congo,COG,2023,True
+Cook Islands,COK,2023,False
+Costa Rica,CRI,2023,False
+Cote d'Ivoire,CIV,2023,True
+Croatia,HRV,2023,False
+Cuba,CUB,2023,False
+Cyprus,CYP,2023,False
+Czechia,CZE,2023,False
+Democratic Republic of Congo,COD,2023,True
+Denmark,DNK,2023,False
+Dominica,DMA,2023,False
+Dominican Republic,DOM,2023,False
+East Timor,TLS,2023,False
+Ecuador,ECU,2023,False
+Egypt,EGY,2023,False
+El Salvador,SLV,2023,False
+Equatorial Guinea,GNQ,2023,True
+Eritrea,ERI,2023,False
+Estonia,EST,2023,False
+Eswatini,SWZ,2023,False
+Ethiopia,ETH,2023,False
+Fiji,FJI,2023,False
+Finland,FIN,2023,False
+France,FRA,2023,False
+Gabon,GAB,2023,True
+Gambia,GMB,2023,False
+Georgia,GEO,2023,False
+Germany,DEU,2023,False
+Ghana,GHA,2023,False
+Greece,GRC,2023,False
+Grenada,GRD,2023,False
+Guatemala,GTM,2023,False
+Guinea,GIN,2023,True
+Guinea-Bissau,GNB,2023,True
+Guyana,GUY,2023,False
+Haiti,HTI,2023,True
+Honduras,HND,2023,False
+Hungary,HUN,2023,False
+Iceland,ISL,2023,False
+India,IND,2023,False
+Indonesia,IDN,2023,True
+Iran,IRN,2023,False
+Iraq,IRQ,2023,False
+Ireland,IRL,2023,False
+Israel,ISR,2023,False
+Italy,ITA,2023,False
+Jamaica,JAM,2023,False
+Japan,JPN,2023,False
+Jordan,JOR,2023,False
+Kazakhstan,KAZ,2023,False
+Kenya,KEN,2023,False
+Kiribati,KIR,2023,False
+Kuwait,KWT,2023,False
+Kyrgyzstan,KGZ,2023,False
+Laos,LAO,2023,False
+Latvia,LVA,2023,False
+Lebanon,LBN,2023,False
+Lesotho,LSO,2023,False
+Liberia,LBR,2023,False
+Lithuania,LTU,2023,False
+Luxembourg,LUX,2023,False
+Madagascar,MDG,2023,False
+Malawi,MWI,2023,False
+Malaysia,MYS,2023,False
+Maldives,MDV,2023,False
+Mali,MLI,2023,False
+Malta,MLT,2023,False
+Mauritania,MRT,2023,True
+Mauritius,MUS,2023,False
+Mexico,MEX,2023,False
+Moldova,MDA,2023,False
+Monaco,MCO,2023,False
+Mongolia,MNG,2023,False
+Montenegro,MNE,2023,False
+Morocco,MAR,2023,False
+Mozambique,MOZ,2023,False
+Myanmar,MMR,2023,False
+Namibia,NAM,2023,False
+Nepal,NPL,2023,False
+Netherlands,NLD,2023,False
+New Zealand,NZL,2023,False
+Nicaragua,NIC,2023,False
+Niger,NER,2023,True
+Nigeria,NGA,2023,True
+North Korea,PRK,2023,False
+North Macedonia,MKD,2023,False
+Norway,NOR,2023,False
+Oman,OMN,2023,False
+Pakistan,PAK,2023,True
+Palestine,PSE,2023,False
+Panama,PAN,2023,False
+Papua New Guinea,PNG,2023,True
+Paraguay,PRY,2023,False
+Peru,PER,2023,False
+Philippines,PHL,2023,False
+Poland,POL,2023,False
+Portugal,PRT,2023,False
+Puerto Rico,PRI,2023,False
+Qatar,QAT,2023,False
+Romania,ROU,2023,False
+Russia,RUS,2023,False
+Rwanda,RWA,2023,True
+Saint Kitts and Nevis,KNA,2023,False
+Saint Lucia,LCA,2023,False
+Saint Vincent and the Grenadines,VCT,2023,False
+San Marino,SMR,2023,False
+Sao Tome and Principe,STP,2023,False
+Saudi Arabia,SAU,2023,False
+Senegal,SEN,2023,False
+Serbia,SRB,2023,False
+Seychelles,SYC,2023,False
+Sierra Leone,SLE,2023,False
+Singapore,SGP,2023,False
+Slovakia,SVK,2023,False
+Slovenia,SVN,2023,False
+Solomon Islands,SLB,2023,False
+South Africa,ZAF,2023,False
+South Korea,KOR,2023,False
+South Sudan,SSD,2023,False
+Spain,ESP,2023,False
+Sri Lanka,LKA,2023,False
+Sudan,SDN,2023,False
+Suriname,SUR,2023,False
+Sweden,SWE,2023,False
+Switzerland,CHE,2023,False
+Syria,SYR,2023,False
+Tajikistan,TJK,2023,False
+Tanzania,TZA,2023,False
+Thailand,THA,2023,False
+Togo,TGO,2023,True
+Trinidad and Tobago,TTO,2023,False
+Tunisia,TUN,2023,False
+Turkey,TUR,2023,False
+Turkmenistan,TKM,2023,False
+Uganda,UGA,2023,True
+Ukraine,UKR,2023,False
+United Arab Emirates,ARE,2023,False
+United Kingdom,GBR,2023,False
+United States,USA,2023,False
+Uruguay,URY,2023,False
+Uzbekistan,UZB,2023,False
+Venezuela,VEN,2023,False
+Vietnam,VNM,2023,False
+Yemen,YEM,2023,False
+Zambia,ZMB,2023,False
+Zimbabwe,ZWE,2023,False

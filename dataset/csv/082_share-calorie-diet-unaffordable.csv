@@ -1,0 +1,163 @@
+Entity,Code,Year,Share of the population who cannot afford sufficient calories
+Albania,ALB,2021,3.3
+Algeria,DZA,2021,0
+Angola,AGO,2021,54.9
+Armenia,ARM,2021,19.3
+Australia,AUS,2021,2.5
+Austria,AUT,2021,2.6
+Azerbaijan,AZE,2021,0
+Bangladesh,BGD,2021,8.4
+Belarus,BLR,2021,0.1
+Belgium,BEL,2021,0.5
+Belize,BLZ,2021,50.9
+Benin,BEN,2021,18.6
+Bhutan,BTN,2021,0.8
+Bolivia,BOL,2021,3.8
+Bosnia and Herzegovina,BIH,2021,0.9
+Botswana,BWA,2021,42.6
+Brazil,BRA,2021,17.1
+Bulgaria,BGR,2021,2.5
+Burkina Faso,BFA,2021,10.2
+Burundi,BDI,2021,42.8
+Cameroon,CMR,2021,29.6
+Canada,CAN,2021,2.2
+Cape Verde,CPV,2021,5.7
+Central African Republic,CAF,2021,51.5
+Chad,TCD,2021,17.5
+Chile,CHL,2021,31.5
+China,CHN,2021,2.9
+Colombia,COL,2021,23.7
+Comoros,COM,2021,31.5
+Congo,COG,2021,55.6
+Costa Rica,CRI,2021,6.5
+Cote d'Ivoire,CIV,2021,21.7
+Croatia,HRV,2021,10
+Cyprus,CYP,2021,1.4
+Czechia,CZE,2021,2.6
+Democratic Republic of Congo,COD,2021,58
+Denmark,DNK,2021,0.6
+Djibouti,DJI,2021,20.2
+Dominican Republic,DOM,2021,9.7
+East Asia & Pacific (WB),,2021,4.6
+Ecuador,ECU,2021,15
+Egypt,EGY,2021,5
+Estonia,EST,2021,3.3
+Eswatini,SWZ,2021,39.7
+Ethiopia,ETH,2021,11.9
+Europe & Central Asia (WB),,2021,4
+Fiji,FJI,2021,34.4
+Finland,FIN,2021,0.4
+France,FRA,2021,1.9
+Gabon,GAB,2021,16.6
+Gambia,GMB,2021,12.8
+Germany,DEU,2021,1.7
+Ghana,GHA,2021,31.7
+Greece,GRC,2021,15.4
+Grenada,GRD,2021,8.3
+Guatemala,GTM,2021,32.1
+Guinea,GIN,2021,7
+Guinea-Bissau,GNB,2021,13.3
+Guyana,GUY,2021,8.7
+Haiti,HTI,2021,44.9
+High-income countries,OWID_HIC,2021,4.4
+Honduras,HND,2021,18.6
+Hungary,HUN,2021,6.4
+Iceland,ISL,2021,0.4
+India,IND,2021,5.4
+Indonesia,IDN,2021,9.9
+Iran,IRN,2021,1.7
+Iraq,IRQ,2021,8.7
+Ireland,IRL,2021,0.9
+Israel,ISR,2021,14
+Italy,ITA,2021,5.3
+Jamaica,JAM,2021,5.3
+Japan,JPN,2021,5
+Jordan,JOR,2021,3
+Kazakhstan,KAZ,2021,1
+Kenya,KEN,2021,49.4
+Kyrgyzstan,KGZ,2021,1.8
+Laos,LAO,2021,19.9
+Latin America & Caribbean (WB),,2021,16.1
+Latvia,LVA,2021,9.4
+Lebanon,LBN,2021,0
+Lesotho,LSO,2021,42.8
+Liberia,LBR,2021,20.7
+Lithuania,LTU,2021,6.3
+Low-income countries,OWID_LIC,2021,30.9
+Lower-middle-income countries,OWID_LMC,2021,13.9
+Luxembourg,LUX,2021,1
+Madagascar,MDG,2021,77.1
+Malawi,MWI,2021,42.5
+Malaysia,MYS,2021,0.5
+Maldives,MDV,2021,0
+Mali,MLI,2021,10.7
+Malta,MLT,2021,1.9
+Mauritania,MRT,2021,12.5
+Mauritius,MUS,2021,4.7
+Mexico,MEX,2021,9.6
+Middle East & North Africa (WB),,2021,5.3
+Moldova,MDA,2021,1.8
+Mongolia,MNG,2021,0.5
+Montenegro,MNE,2021,4.9
+Morocco,MAR,2021,1.9
+Mozambique,MOZ,2021,56.9
+Myanmar,MMR,2021,6.4
+Namibia,NAM,2021,44.2
+Nepal,NPL,2021,2.6
+Netherlands,NLD,2021,0.9
+Nicaragua,NIC,2021,8.4
+Niger,NER,2021,19.6
+Nigeria,NGA,2021,56.4
+North America (WB),WB_NA,2021,2.3
+North Macedonia,MKD,2021,8.6
+Norway,NOR,2021,1.2
+Pakistan,PAK,2021,8.4
+Palestine,PSE,2021,1.4
+Panama,PAN,2021,36.6
+Paraguay,PRY,2021,7.2
+Peru,PER,2021,15.7
+Philippines,PHL,2021,15.4
+Poland,POL,2021,4.8
+Portugal,PRT,2021,9.2
+Qatar,QAT,2021,0
+Romania,ROU,2021,45.7
+Russia,RUS,2021,0.6
+Rwanda,RWA,2021,31.7
+Saint Lucia,LCA,2021,4.7
+Sao Tome and Principe,STP,2021,20.8
+Senegal,SEN,2021,15.2
+Serbia,SRB,2021,3.4
+Seychelles,SYC,2021,28.8
+Sierra Leone,SLE,2021,17
+Slovakia,SVK,2021,13
+Slovenia,SVN,2021,0.8
+South Africa,ZAF,2021,47.6
+South Asia (WB),WB_SA,2021,5.6
+South Korea,KOR,2021,2.2
+South Sudan,SSD,2021,65.3
+Spain,ESP,2021,7
+Sri Lanka,LKA,2021,3.1
+Sub-Saharan Africa (WB),WB_SSA,2021,39.6
+Sudan,SDN,2021,8.2
+Suriname,SUR,2021,8.3
+Sweden,SWE,2021,2.7
+Switzerland,CHE,2021,1
+Syria,SYR,2021,3.9
+Taiwan,TWN,2021,2.5
+Tajikistan,TJK,2021,6.1
+Tanzania,TZA,2021,50.5
+Thailand,THA,2021,3
+Togo,TGO,2021,15.4
+Trinidad and Tobago,TTO,2021,29.8
+Tunisia,TUN,2021,0.3
+Turkey,TUR,2021,2.7
+Uganda,UGA,2021,35.1
+United Arab Emirates,ARE,2021,2.1
+United Kingdom,GBR,2021,2.2
+United States,USA,2021,2.2
+Upper-middle-income countries,OWID_UMC,2021,7.1
+Uruguay,URY,2021,30.3
+Uzbekistan,UZB,2021,5.2
+Vietnam,VNM,2021,1.8
+World,OWID_WRL,2021,10.9
+Zambia,ZMB,2021,64

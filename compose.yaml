@@ -1,0 +1,15 @@
+
+services:
+  minio:
+    image: docker.io/pgsty/silo:RELEASE.2026-10-18T00-00-00Z
+    container_name: minio
+    command: server /data --console-address ":9001"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: "ChangeThisPassword123!"
+    volumes:
+      - ./minio-data:/data
+    restart: unless-stopped
