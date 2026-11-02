@@ -1,4 +1,3 @@
-
 services:
   minio:
     image: docker.io/pgsty/silo:RELEASE.2026-10-18T00-00-00Z
@@ -8,8 +7,25 @@ services:
       - "9000:9000"
       - "9001:9001"
     environment:
-      MINIO_ROOT_USER: minioadmin
-      MINIO_ROOT_PASSWORD: "ChangeThisPassword123!"
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
     volumes:
       - ./minio-data:/data
+    restart: unless-stopped
+
+  fastapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: compression-fastapi
+    ports:
+      - "8000:8000"
+    environment:
+      MINIO_ENDPOINT: minio:9000
+      MINIO_ACCESS_KEY: ${MINIO_ROOT_USER}
+      MINIO_SECRET_KEY: ${MINIO_ROOT_PASSWORD}
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      - minio
     restart: unless-stopped
