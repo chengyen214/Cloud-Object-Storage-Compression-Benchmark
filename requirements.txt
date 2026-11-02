@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+minio
+jinja2
+python-multipart
+lz4
+zstandard

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ data_type | upper }} - {{ method | upper }}</title>
+
+    <style>
+        body {
+            font-family: Arial, "Microsoft JhengHei", sans-serif;
+            max-width: 1100px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background: #f5f7fa;
+            color: #263238;
+        }
+
+        .container {
+            background: white;
+            padding: 24px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+        }
+
+        .file-row {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+            gap: 12px;
+        }
+
+        .file-name {
+            flex: 1;
+            overflow-wrap: anywhere;
+        }
+
+        button {
+            background: #2563eb;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        button:disabled {
+            background: #999;
+            cursor: not-allowed;
+        }
+
+        .muted {
+            color: #777;
+        }
+
+        a {
+            color: #2563eb;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <a href="/methods/{{ method }}">← 返回資料類型</a>
+
+        <h1>{{ method | upper }} / {{ data_type | upper }}</h1>
+
+        <p class="muted">
+            目前共有 {{ files | length }} 個檔案
+        </p>
+
+    </div>
+
+    <form method="post" action="/methods/{{ method }}/preview">
+
+        <div class="container">
+
+            <h2>檔案清單</h2>
+
+            <label>
+                <input
+                    type="checkbox"
+                    id="select-all"
+                    onchange="toggleAll(this)"
+                >
+                全選
+            </label>
+
+            {% for file in files %}
+
+            <label class="file-row">
+
+                <input
+                    type="checkbox"
+                    name="files"
+                    value="{{ file.path }}"
+                    onchange="updateSelection()"
+                >
+
+                <span class="file-name">
+                    {{ file.name }}
+                </span>
+
+                <span class="muted">
+                    {{ "%.2f"|format(file.size / 1024) }} KB
+                </span>
+
+            </label>
+
+            {% endfor %}
+
+            <br>
+
+            <p id="selected-count">已選取 0 個檔案</p>
+
+            <button id="download-button" type="submit" disabled>
+                查看所選檔案
+            </button>
+
+        </div>
+
+    </form>
+
+    <script>
+        function updateSelection() {
+
+            const checkboxes = document.querySelectorAll(
+                'input[name="files"]'
+            );
+
+            const checked = document.querySelectorAll(
+                'input[name="files"]:checked'
+            );
+
+            document.getElementById("selected-count").textContent =
+                `已選取 ${checked.length} 個檔案`;
+
+            document.getElementById("download-button").disabled =
+                checked.length === 0;
+
+            document.getElementById("select-all").checked =
+                checkboxes.length > 0 &&
+                checked.length === checkboxes.length;
+        }
+
+        function toggleAll(selectAll) {
+
+            document.querySelectorAll(
+                'input[name="files"]'
+            ).forEach(checkbox => {
+                checkbox.checked = selectAll.checked;
+            });
+
+            updateSelection();
+        }
+    </script>
+
+</body>
+</html>

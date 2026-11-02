@@ -1,0 +1,447 @@
+
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ method | upper }} - 檔案預覽</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background: #f5f6fa;
+        }
+
+        .summary-card,
+        .file-card {
+            background: white;
+            padding: 24px;
+            margin-bottom: 25px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        details {
+            margin: 15px 0;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        summary {
+            padding: 15px;
+            background: #f1f3f6;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        summary:hover {
+            background: #e5e9f0;
+        }
+
+        .details-content {
+            padding: 18px;
+        }
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .info-item {
+            background: #f5f6fa;
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        .info-item h4 {
+            margin: 0 0 10px;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .info-item p {
+            margin: 0;
+            font-size: 18px;
+            font-weight: bold;
+            overflow-wrap: anywhere;
+        }
+
+        .note {
+            color: #777;
+            font-size: 13px;
+            margin-top: 12px;
+        }
+
+        .content-box {
+            overflow-x: auto;
+            padding: 15px;
+            background: #fafafa;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            background: white;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background: #e9edf3;
+        }
+
+        pre {
+            white-space: pre-wrap;
+            overflow-wrap: anywhere;
+        }
+
+        @media (max-width: 800px) {
+            .info-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 500px) {
+            body {
+                margin: 15px;
+            }
+
+            .info-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>{{ method | upper }} 檔案預覽</h1>
+
+    <a href="/methods/{{ method }}">返回資料類型</a>
+
+    <!-- ====================================== -->
+    <!-- 整體效能統計 -->
+    <!-- ====================================== -->
+
+    <div class="summary-card">
+
+        <h2>整體效能統計</h2>
+
+        <p>本次選取檔案數量：{{ summary.file_count }} 個</p>
+
+        <!-- 儲存效率 -->
+        <details open>
+            <summary>一、儲存效率</summary>
+
+            <div class="details-content">
+
+                <div class="info-grid">
+
+                    <div class="info-item">
+                        <h4>原始總大小</h4>
+                        <p>
+                            {{ "%.2f"|format(summary.total_original_size / 1024 / 1024) }} MB
+                        </p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>MinIO 儲存總大小</h4>
+                        <p>
+                            {{ "%.2f"|format(summary.total_stored_size / 1024 / 1024) }} MB
+                        </p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>節省空間</h4>
+                        <p>
+                            {{ "%.2f"|format(summary.total_saved_size / 1024 / 1024) }} MB
+                        </p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>壓縮率</h4>
+                        <p>
+                            {{ "%.2f"|format(summary.compression_ratio) }}%
+                        </p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>節省率</h4>
+                        <p>
+                            {{ "%.2f"|format(summary.saving_rate) }}%
+                        </p>
+                    </div>
+
+                </div>
+
+                <p class="note">
+                    壓縮率 = 儲存總大小 ÷ 原始總大小 × 100%。
+                    節省率 = (原始總大小 - 儲存總大小) ÷ 原始總大小 × 100%。
+                </p>
+
+            </div>
+        </details>
+
+        <!-- 運算效率 -->
+        <details open>
+            <summary>二、運算效率</summary>
+
+            <div class="details-content">
+
+                <div class="info-grid">
+
+                    <div class="info-item">
+                        <h4>解壓縮總時間</h4>
+                        <p>
+                            {{ "%.3f"|format(summary.total_decompress_time) }} ms
+                        </p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>平均解壓縮時間</h4>
+                        <p>
+                            {{ "%.3f"|format(summary.average_decompress_time) }} ms
+                        </p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>MinIO 讀取總時間</h4>
+                        <p>
+                            {{ "%.3f"|format(summary.total_read_time) }} ms
+                        </p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>平均 MinIO 讀取時間</h4>
+                        <p>
+                            {{ "%.3f"|format(summary.average_read_time) }} ms
+                        </p>
+                    </div>
+
+                </div>
+
+            </div>
+        </details>
+
+        <!-- 服務延遲 -->
+        <details open>
+            <summary>三、服務延遲</summary>
+
+            <div class="details-content">
+
+                <div class="info-grid">
+
+                    <div class="info-item">
+                        <h4>平均 HTTP 延遲</h4>
+                        <p>{{ summary.average_latency }} ms</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>P95 HTTP 延遲</h4>
+                        <p>{{ summary.p95_latency }} ms</p>
+                    </div>
+
+                </div>
+
+                <p class="note">
+                    以上數據尚未連接 Locust 測試結果，目前以 0 顯示。
+                </p>
+
+            </div>
+        </details>
+
+        <!-- 處理能力 -->
+        <details open>
+            <summary>四、處理能力</summary>
+
+            <div class="details-content">
+
+                <div class="info-grid">
+
+                    <div class="info-item">
+                        <h4>每秒請求數（RPS）</h4>
+                        <p>{{ summary.rps }}</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>資料吞吐量</h4>
+                        <p>{{ summary.throughput }} MB/s</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>成功請求數</h4>
+                        <p>{{ summary.success_requests }}</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>失敗請求數</h4>
+                        <p>{{ summary.failed_requests }}</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>完成傳輸資料量</h4>
+                        <p>
+                            {{ "%.2f"|format(summary.transferred_bytes / 1024 / 1024) }} MB
+                        </p>
+                    </div>
+
+                </div>
+
+                <p class="note">
+                    以上數據尚未連接 Locust 測試結果，目前以 0 顯示。
+                </p>
+
+            </div>
+        </details>
+
+    </div>
+
+
+    <!-- ====================================== -->
+    <!-- 個別檔案資訊 -->
+    <!-- ====================================== -->
+
+    <h2>個別檔案資訊</h2>
+
+    {% for file in previews %}
+
+    <div class="file-card">
+
+        <h2>{{ file.name }}</h2>
+
+        <p>檔案類型：{{ file.type }}</p>
+
+        <!-- 檔案基本資訊 -->
+        <details>
+            <summary>檔案基本資訊</summary>
+
+            <div class="details-content">
+
+                <div class="info-grid">
+
+                    <div class="info-item">
+                        <h4>原始大小</h4>
+                        <p>{{ "%.2f"|format(file.original_size / 1024) }} KB</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>儲存大小</h4>
+                        <p>{{ "%.2f"|format(file.stored_size / 1024) }} KB</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>節省空間</h4>
+                        <p>{{ "%.2f"|format(file.saved_size / 1024) }} KB</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>壓縮率</h4>
+                        <p>{{ "%.2f"|format(file.compression_ratio) }}%</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>節省率</h4>
+                        <p>{{ "%.2f"|format(file.saving_rate) }}%</p>
+                    </div>
+
+                </div>
+
+            </div>
+        </details>
+
+        <!-- 個別檔案效能資訊 -->
+        <details>
+            <summary>處理效能資訊</summary>
+
+            <div class="details-content">
+
+                <div class="info-grid">
+
+                    <div class="info-item">
+                        <h4>MinIO 讀取時間</h4>
+                        <p>{{ file.read_time }} ms</p>
+                    </div>
+
+                    <div class="info-item">
+                        <h4>解壓縮時間</h4>
+                        <p>{{ file.decompress_time }} ms</p>
+                    </div>
+
+                </div>
+
+            </div>
+        </details>
+
+        <!-- 檔案內容 -->
+        <details open>
+            <summary>檔案內容預覽</summary>
+
+            <div class="details-content">
+
+                <div class="content-box">
+
+                    {% if file.type == "CSV" %}
+
+                        {% if file.headers %}
+
+                        <table>
+                            <thead>
+                                <tr>
+                                    {% for header in file.headers %}
+                                        <th>{{ header }}</th>
+                                    {% endfor %}
+                                </tr>
+                            </thead>
+
+                            <tbody>
+                                {% for row in file.rows %}
+                                    <tr>
+                                        {% for value in row %}
+                                            <td>{{ value }}</td>
+                                        {% endfor %}
+                                    </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+
+                        <p>目前顯示前 100 筆資料。</p>
+
+                        {% else %}
+
+                        <p>CSV 檔案沒有可顯示的資料。</p>
+
+                        {% endif %}
+
+                    {% elif file.type == "JSON" or file.type == "TXT" %}
+
+                        <pre>{{ file.content }}</pre>
+
+                    {% else %}
+
+                        <p>
+                            此檔案格式目前不支援直接顯示內容，
+                            但已成功讀取並取得檔案屬性。
+                        </p>
+
+                    {% endif %}
+
+                </div>
+
+            </div>
+        </details>
+
+    </div>
+
+    {% endfor %}
+
+</body>
+</html>

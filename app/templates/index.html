@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud Object Storage Compression Benchmark</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Segoe UI", "Microsoft JhengHei", sans-serif;
+            background: #f4f6fa;
+            color: #263248;
+        }
+
+        header {
+            background: #1e293b;
+            color: white;
+            padding: 30px 8%;
+        }
+
+        header h1 {
+            font-size: 27px;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            color: #cbd5e1;
+            font-size: 14px;
+        }
+
+        main {
+            max-width: 1100px;
+            margin: 45px auto;
+            padding: 0 25px;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+        }
+
+        .section-header h2 {
+            font-size: 22px;
+        }
+
+        .count {
+            background: #dbeafe;
+            color: #1d4ed8;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .method-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+        }
+
+        .method-card {
+            background: white;
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            padding: 25px;
+            text-decoration: none;
+            color: #263248;
+            transition: 0.2s;
+        }
+
+        .method-card:hover {
+            transform: translateY(-4px);
+            border-color: #3b82f6;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.07);
+        }
+
+        .method-icon {
+            font-size: 32px;
+            margin-bottom: 15px;
+        }
+
+        .method-card h3 {
+            font-size: 19px;
+            margin-bottom: 8px;
+        }
+
+        .method-card p {
+            color: #64748b;
+            font-size: 14px;
+        }
+
+        .empty {
+            background: white;
+            padding: 35px;
+            text-align: center;
+            border-radius: 12px;
+            color: #64748b;
+        }
+
+        footer {
+            text-align: center;
+            padding: 25px;
+            color: #94a3b8;
+            font-size: 13px;
+        }
+
+        @media (max-width: 600px) {
+            header {
+                padding: 25px;
+            }
+
+            header h1 {
+                font-size: 21px;
+            }
+
+            .section-header {
+                align-items: flex-start;
+                gap: 12px;
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Cloud Object Storage Compression Benchmark</h1>
+        <p>雲端物件儲存環境下不同資料壓縮演算法之效能與資源成本評估</p>
+    </header>
+
+    <main>
+
+        <div class="section-header">
+            <h2>可用的壓縮方式</h2>
+            <span class="count">
+                {{ method_count }} 種
+            </span>
+        </div>
+
+        {% if methods %}
+
+        <div class="method-grid">
+
+            {% for method in methods %}
+
+            <a href="/methods/{{ method }}" class="method-card">
+
+                <div class="method-icon">
+                    {% if method == "original" %}
+                        📁
+                    {% else %}
+                        📦
+                    {% endif %}
+                </div>
+
+                <h3>{{ method | replace("_", " ") | upper }}</h3>
+
+                <p>
+                    {% if method == "original" %}
+                        原始資料
+                    {% else %}
+                        {{ method | upper }} 壓縮資料
+                    {% endif %}
+                </p>
+
+            </a>
+
+            {% endfor %}
+
+        </div>
+
+        {% else %}
+
+        <div class="empty">
+            <p>目前 MinIO 尚無可用的資料組別。</p>
+        </div>
+
+        {% endif %}
+
+    </main>
+
+    <footer>
+        Cloud Object Storage Compression Benchmark
+    </footer>
+
+</body>
+</html>

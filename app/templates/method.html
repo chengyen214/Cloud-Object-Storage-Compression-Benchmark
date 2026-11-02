@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ method | upper }} - Compression Benchmark</title>
+
+    <style>
+        body {
+            font-family: Arial, "Microsoft JhengHei", sans-serif;
+            max-width: 1100px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background: #f5f7fa;
+            color: #263238;
+        }
+
+        .container {
+            background: white;
+            padding: 24px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+        }
+
+        .category {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 18px;
+            border-bottom: 1px solid #eee;
+            text-decoration: none;
+            color: #263238;
+        }
+
+        .category:hover {
+            background: #f5f7fa;
+        }
+
+        .muted {
+            color: #777;
+        }
+
+        a.back {
+            color: #2563eb;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <a class="back" href="/">← 返回首頁</a>
+
+        <h1>{{ method | upper }}</h1>
+
+        <p class="muted">
+            目前共有 {{ file_count }} 個檔案
+        </p>
+
+    </div>
+
+    <div class="container">
+
+        <h2>選擇資料類型</h2>
+
+        {% for category in categories %}
+
+        <a
+            class="category"
+            href="/methods/{{ method }}/{{ category.name }}"
+        >
+
+            <strong>📁 {{ category.name | upper }}</strong>
+
+            <span class="muted">
+                {{ category.count }} 個檔案　→
+            </span>
+
+        </a>
+
+        {% endfor %}
+
+    </div>
+
+</body>
+</html>
