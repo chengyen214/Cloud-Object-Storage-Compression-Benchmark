@@ -1,6 +1,6 @@
 from pathlib import Path
 from minio import Minio
-import gzip
+import zstandard as zstd
 import os
 import tempfile
 
@@ -17,65 +17,52 @@ client = Minio(
 )
 
 BUCKET_NAME = "compression-benchmark"
-
 DATA_TYPES = ["csv", "jpg", "json", "txt", "zip"]
 
+# Zstd Level 6
+compressor = zstd.ZstdCompressor(level=6)
+PREFIX = "zstd_level_6"
 
-def upload_original(file_path, data_type):
-    """上傳原始檔案至 original/"""
+
+def upload_zstd(file_path):
+    """壓縮檔案後上傳至 zstd_level_6/"""
 
     relative_path = file_path.relative_to(DATASET_DIR).as_posix()
-    object_name = f"original/{relative_path}"
+    object_name = f"{PREFIX}/{relative_path}.zst"
 
-    client.fput_object(
-        BUCKET_NAME,
-        object_name,
-        str(file_path)
-    )
-
-    print(f"[Original] {object_name}")
-
-
-def upload_gzip(file_path, data_type):
-    """壓縮檔案後上傳至 gzip/"""
-
-    relative_path = file_path.relative_to(DATASET_DIR)
-    gzip_object_name = f"gzip/{relative_path.as_posix()}.gz"
-
-    with tempfile.NamedTemporaryFile(suffix=".gz", delete=False) as temp:
+    with tempfile.NamedTemporaryFile(suffix=".zst", delete=False) as temp:
         temp_path = Path(temp.name)
 
     try:
         with open(file_path, "rb") as source:
-            with gzip.open(temp_path, "wb", compresslevel=6) as target:
-                while chunk := source.read(1024 * 1024):
-                    target.write(chunk)
+            with open(temp_path, "wb") as target:
+                compressor.copy_stream(
+                    source,
+                    target,
+                    size=file_path.stat().st_size
+                )
 
         client.fput_object(
             BUCKET_NAME,
-            gzip_object_name,
+            object_name,
             str(temp_path),
-            content_type="application/gzip"
+            content_type="application/zstd"
         )
 
-        print(f"[Gzip] {gzip_object_name}")
+        print(f"[Zstd Level 6] {object_name}")
 
     finally:
         temp_path.unlink(missing_ok=True)
 
 
 def main():
-
-    # 建立 Bucket
     if not client.bucket_exists(BUCKET_NAME):
         client.make_bucket(BUCKET_NAME)
         print(f"[建立] Bucket：{BUCKET_NAME}")
 
-    original_total = 0
-    gzip_total = 0
+    total = 0
 
     for data_type in DATA_TYPES:
-
         folder = DATASET_DIR / data_type
 
         if not folder.exists():
@@ -88,33 +75,24 @@ def main():
         print(f"檔案數量：{len(files)}")
 
         for file_path in files:
-
-            # 上傳原始檔案
-            upload_original(file_path, data_type)
-            original_total += 1
-
-            # Gzip 壓縮並上傳
-            upload_gzip(file_path, data_type)
-            gzip_total += 1
+            upload_zstd(file_path)
+            total += 1
 
     print("\n========== 上傳完成 ==========")
     print(f"Bucket：{BUCKET_NAME}")
-    print(f"Original：{original_total} 個檔案")
-    print(f"Gzip：{gzip_total} 個檔案")
+    print(f"Zstd Level 6：{total} 個檔案")
 
     print("\n========== MinIO 檔案統計 ==========")
 
-    for prefix in ["original/", "gzip/"]:
-
-        objects = list(
-            client.list_objects(
-                BUCKET_NAME,
-                prefix=prefix,
-                recursive=True
-            )
+    count = sum(
+        1 for _ in client.list_objects(
+            BUCKET_NAME,
+            prefix=f"{PREFIX}/",
+            recursive=True
         )
+    )
 
-        print(f"{prefix}: {len(objects)} 個檔案")
+    print(f"{PREFIX}/: {count} 個檔案")
 
 
 if __name__ == "__main__":
